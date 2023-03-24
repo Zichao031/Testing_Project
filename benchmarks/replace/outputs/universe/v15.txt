@@ -1,0 +1,60 @@
+'' '|,' < input/ruin.1173
+'' '^TA6q#%uc@pEv0e\!Gk8Z?vyYdyRhx~|6\ BY7fs}+:K7S' < input/ruin.1437
+'' '~]/*$' < input/ruin.1237
+'' 'K' < input/ruin.259
+'' 'VcA~\!1&(Sea@k2P2' < input/ruin.1776
+'' 'f' < input/ruin.557
+'' '(h.--"zy)?N*:eh' < input/ruin.1899
+'' ''\''Z y<j$`3-b6{hC,KW4dJZ\tWkm' < input/ruin.1104
+'' 'T' < input/ruin.1755
+'' 'T' < input/ruin.1744
+'' 'G' < input/ruin.1563
+'' ';C5Q#+\!5V<oSjIW"k3~oP *vIBN' < input/ruin.257
+'' 'Pd#(tEJLie`_i@Qb,]e66XCMVy8%p9<>%Z[P' < input/ruin.221
+'' 'd' < input/ruin.584
+'' 'j@+' < input/ruin.339
+'' 'G' < input/ruin.1466
+'' 'E4\70\!JDTfF[Z}ggd' < input/ruin.880
+'' 'U@DbH]&>ZR(' < input/ruin.1839
+'' 'oB' < input/ruin.220
+'' 'dV\?Qb7f]GZ:YV(22%ESH;?$' < input/ruin.1160
+'' 'a' < input/ruin.696
+'' '\!' < input/ruin.922
+'' 'L/FLz+< y/Ch49G5.NnZ7s2<*w+Vf,L2' < input/ruin.134
+'' '4k2I3Sx/L.0lMc,Ct<O91xn\!N\!6XD)Za' < input/ruin.440
+'' 'n' < input/ruin.724
+'' 'Y\!ME~#' < input/ruin.1170
+'' '$' < input/ruin.1750
+'' 'c' < input/ruin.1135
+'' '@g5fQ|ruR,ZAD+Q/' < input/ruin.19
+'' 'h' < input/ruin.1966
+'' '~]/' < input/ruin.1237
+'' '9' < input/ruin.1064
+'' '{#umxUXsQww[=tD`2X' < input/ruin.211
+'' '|g4|;Y<)c'\''5\IC5utpVH' < input/ruin.784
+'' op < moni/f7.inp
+'' 'j' < input/ruin.1735
+'' '_' < input/ruin.1427
+'' 'K' < input/ruin.859
+'' 'BTKzQX[0{Fdkhsx%lQ<KOmjPx{RO4%y?I<*;>77`@akb|\!'\''B~Awc]Rw*Jg;joAvfHhyE_e3' < input/ruin.861
+'' '"' < input/ruin.1728
+'' 'x' < input/ruin.886
+'' '>' < input/ruin.628
+'' 'K' < input/ruin.1852
+'' '-' < input/ruin.705
+'' '}' < input/ruin.1066
+'' 'ua1CB[Gc%"D/ ~h[ifc{.'\''' < input/ruin.375
+'' '{' < input/ruin.1255
+'' '2' < input/ruin.236
+'' ' ' < input/ruin.452
+'' ').EgV46YLA|t(jN\!%1'\''AO,A_{pP_' < input/ruin.1835
+'' 'x|g=Y,' < input/ruin.1880
+'' 'l[*U(0T7mn' < input/ruin.1352
+'' '1' < input/ruin.227
+'' '-,i3&R}<-W[ItMRB{.b2mI]T1UZKpg' < input/ruin.772
+'' 'v' < input/ruin.1429
+'' 'M8|(B=(H(T{P 1$~klg' < input/ruin.114
+'' 'M\?#\!~.)L* N'\''8%*?\DH&Kn+Kb$@&?H\! '\''b<+~(8QgW'\''k(' < input/ruin.1652
+'' '(,t{kot~t4%]~"i|?`&\Qrhl6SO&4rT\Y[].' < input/ruin.1822
+'' '-' < input/ruin.373
+'' 'kGv'\''@V.cj' < input/ruin.1518

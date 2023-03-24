@@ -1,0 +1,2 @@
+1 2 3 < input/inp.hf.12
+2 1 0 < input/inp.hf.1

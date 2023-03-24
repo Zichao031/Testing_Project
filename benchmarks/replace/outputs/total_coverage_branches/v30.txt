@@ -1,0 +1,7 @@
+'[^a-c]*?--*?* *[a--b][^a-c]' 'a@nb@tc' < temp-test/8.inp.3.4
+'?[^--z]c[^9-B]*$' '@t' < temp-test/531.inp.230.4
+'*[A-G]?*[A-G]?' '(:,w5(X6)W%qon=YYaq]Q_&nZ~A' < input/ruin.637
+'%[0-9\!]*' '&@t@t#45678[0-9]&'  < moni/rr3.t
+'[1-8;a-Z]*$' '@@n' < input/ruin.714
+'-*[^0-9]*$' '&' < temp-test/202.inp.90.6
+'?*[9-B]?%[9-B]*?-[9-B]' '&a@%' < temp-test/9.inp.4.1

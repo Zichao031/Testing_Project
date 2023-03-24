@@ -1,0 +1,4 @@
+*.bak
+*.gcno
+*.gcov.json.gz
+*.py.bak

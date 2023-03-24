@@ -1,0 +1,3 @@
+'^*%^*?-[a-c@t*[a-c]^*[^0-9]-[a-c]^*[^0-9]@[?' '@%&a' < temp-test/16.inp.7.3
+'morestuffinalongline111111111111111111111111111' '&aaaaa&'  < moni/rr4.t
+'@n*-@*@@*[a-c[0-9][^a-][^9-B]--[^--z]' 'a@n' < temp-test/2220.inp.941.1

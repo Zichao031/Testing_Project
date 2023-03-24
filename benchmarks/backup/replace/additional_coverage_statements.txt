@@ -1,0 +1,9 @@
+'%A[0-9]?@**[a-c][^0-9]$' '@%&a' < temp-test/672.inp.292.11
+'&11111@nl[^1-6]betweend@t@n%%88*erwhatjust@t@t@tgvariety%$inthestr&& OK here[@@]' < moni/rr2.t
+'[^z-}>-A0-9A-G>-A0-9]' '7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpX' < input/ruin.1054
+'?@[*?-]$' '@%&a@' < temp-test/353.inp.154.9
+< input/ruin.2
+'NEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEWNEW-[^0-9][0-9]A@@*' 'NEW' < temp-test/1584.inp.675.1
+'-*?@[?[@@]-' '@%&a' < temp-test/265.inp.117.3
+'[^9-B]@['  < temp-test/221.inp.98.3
+'%*' '0' < input/ruin.1821

@@ -1,0 +1,6 @@
+10 6 1 < input/adt.37
+4 5 5 < input/dat348
+4  1  6  < input/lu20
+0 0 0 < input/tc.252
+5 5 0 < input/dat490
+6 9 0 < input/inp.hf.25

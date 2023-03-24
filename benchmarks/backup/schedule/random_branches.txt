@@ -1,0 +1,11 @@
+5 2 3 < input/dat779
+3 1 5 < input/dat751
+5 0 3 < input/dat009
+1 1 1 < input/nnt13
+7 10 9 < input/ft.6
+7 10 5 < input/bdt.84
+1 2 3 4 < input/ad.1
+5 6 2 < input/inp.92
+2 3  < input/bdt.77
+5 1 2 < input/bdt.95
+9 8 5 < input/inp.hf.14

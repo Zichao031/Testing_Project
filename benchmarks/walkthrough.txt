@@ -1,0 +1,1806 @@
+printtokens2_universe_v1
+suite_size: 4057	false_num: 240
+printtokens2_universe_v2
+suite_size: 4057	false_num: 249
+printtokens2_universe_v3
+suite_size: 4057	false_num: 33
+printtokens2_universe_v4
+suite_size: 4057	false_num: 332
+printtokens2_universe_v5
+suite_size: 4057	false_num: 173
+printtokens2_universe_v6
+suite_size: 4057	false_num: 518
+printtokens2_universe_v7
+suite_size: 4057	false_num: 207
+printtokens2_universe_v8
+suite_size: 4057	false_num: 256
+printtokens2_universe_v9
+suite_size: 4057	false_num: 56
+printtokens2_random_statements_v1
+suite_size: 13	false_num: 1
+printtokens2_random_statements_v2
+suite_size: 13	false_num: 1
+printtokens2_random_statements_v3
+suite_size: 13	false_num: 0
+printtokens2_random_statements_v4
+suite_size: 13	false_num: 1
+printtokens2_random_statements_v5
+suite_size: 13	false_num: 1
+printtokens2_random_statements_v6
+suite_size: 13	false_num: 4
+printtokens2_random_statements_v7
+suite_size: 13	false_num: 0
+printtokens2_random_statements_v8
+suite_size: 13	false_num: 2
+printtokens2_random_statements_v9
+suite_size: 13	false_num: 1
+printtokens2_random_branches_v1
+suite_size: 17	false_num: 1
+printtokens2_random_branches_v2
+suite_size: 17	false_num: 1
+printtokens2_random_branches_v3
+suite_size: 17	false_num: 1
+printtokens2_random_branches_v4
+suite_size: 17	false_num: 2
+printtokens2_random_branches_v5
+suite_size: 17	false_num: 2
+printtokens2_random_branches_v6
+suite_size: 17	false_num: 2
+printtokens2_random_branches_v7
+suite_size: 17	false_num: 1
+printtokens2_random_branches_v8
+suite_size: 17	false_num: 0
+printtokens2_random_branches_v9
+suite_size: 17	false_num: 1
+printtokens2_total_coverage_statements_v1
+suite_size: 4	false_num: 2
+printtokens2_total_coverage_statements_v2
+suite_size: 4	false_num: 2
+printtokens2_total_coverage_statements_v3
+suite_size: 4	false_num: 1
+printtokens2_total_coverage_statements_v4
+suite_size: 4	false_num: 2
+printtokens2_total_coverage_statements_v5
+suite_size: 4	false_num: 1
+printtokens2_total_coverage_statements_v6
+suite_size: 4	false_num: 2
+printtokens2_total_coverage_statements_v7
+suite_size: 4	false_num: 0
+printtokens2_total_coverage_statements_v8
+suite_size: 4	false_num: 1
+printtokens2_total_coverage_statements_v9
+suite_size: 4	false_num: 0
+printtokens2_total_coverage_branches_v1
+suite_size: 6	false_num: 4
+printtokens2_total_coverage_branches_v2
+suite_size: 6	false_num: 4
+printtokens2_total_coverage_branches_v3
+suite_size: 6	false_num: 1
+printtokens2_total_coverage_branches_v4
+suite_size: 6	false_num: 4
+printtokens2_total_coverage_branches_v5
+suite_size: 6	false_num: 2
+printtokens2_total_coverage_branches_v6
+suite_size: 6	false_num: 4
+printtokens2_total_coverage_branches_v7
+suite_size: 6	false_num: 0
+printtokens2_total_coverage_branches_v8
+suite_size: 6	false_num: 2
+printtokens2_total_coverage_branches_v9
+suite_size: 6	false_num: 1
+printtokens2_additional_coverage_statements_v1
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_statements_v2
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_statements_v3
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_statements_v4
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_statements_v5
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_statements_v6
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_statements_v7
+suite_size: 4	false_num: 0
+printtokens2_additional_coverage_statements_v8
+suite_size: 4	false_num: 0
+printtokens2_additional_coverage_statements_v9
+suite_size: 4	false_num: 0
+printtokens2_additional_coverage_branches_v1
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_branches_v2
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_branches_v3
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_branches_v4
+suite_size: 4	false_num: 2
+printtokens2_additional_coverage_branches_v5
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_branches_v6
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_branches_v7
+suite_size: 4	false_num: 1
+printtokens2_additional_coverage_branches_v8
+suite_size: 4	false_num: 0
+printtokens2_additional_coverage_branches_v9
+suite_size: 4	false_num: 0
+printtokens_universe_v1
+suite_size: 4072	false_num: 6
+printtokens_universe_v2
+suite_size: 4072	false_num: 48
+printtokens_universe_v3
+suite_size: 4072	false_num: 38
+printtokens_universe_v4
+suite_size: 4072	false_num: 28
+printtokens_universe_v5
+suite_size: 4072	false_num: 150
+printtokens_universe_v6
+suite_size: 4072	false_num: 186
+printtokens_universe_v7
+suite_size: 4072	false_num: 28
+printtokens_random_statements_v1
+suite_size: 16	false_num: 0
+printtokens_random_statements_v2
+suite_size: 16	false_num: 0
+printtokens_random_statements_v3
+suite_size: 16	false_num: 1
+printtokens_random_statements_v4
+suite_size: 16	false_num: 1
+printtokens_random_statements_v5
+suite_size: 16	false_num: 1
+printtokens_random_statements_v6
+suite_size: 16	false_num: 0
+printtokens_random_statements_v7
+suite_size: 16	false_num: 0
+printtokens_random_branches_v1
+suite_size: 18	false_num: 0
+printtokens_random_branches_v2
+suite_size: 18	false_num: 1
+printtokens_random_branches_v3
+suite_size: 18	false_num: 1
+printtokens_random_branches_v4
+suite_size: 18	false_num: 0
+printtokens_random_branches_v5
+suite_size: 18	false_num: 1
+printtokens_random_branches_v6
+suite_size: 18	false_num: 0
+printtokens_random_branches_v7
+suite_size: 18	false_num: 0
+printtokens_total_coverage_statements_v1
+suite_size: 6	false_num: 0
+printtokens_total_coverage_statements_v2
+suite_size: 6	false_num: 2
+printtokens_total_coverage_statements_v3
+suite_size: 6	false_num: 1
+printtokens_total_coverage_statements_v4
+suite_size: 6	false_num: 1
+printtokens_total_coverage_statements_v5
+suite_size: 6	false_num: 4
+printtokens_total_coverage_statements_v6
+suite_size: 6	false_num: 3
+printtokens_total_coverage_statements_v7
+suite_size: 6	false_num: 1
+printtokens_total_coverage_branches_v1
+suite_size: 8	false_num: 0
+printtokens_total_coverage_branches_v2
+suite_size: 8	false_num: 2
+printtokens_total_coverage_branches_v3
+suite_size: 8	false_num: 1
+printtokens_total_coverage_branches_v4
+suite_size: 8	false_num: 1
+printtokens_total_coverage_branches_v5
+suite_size: 8	false_num: 5
+printtokens_total_coverage_branches_v6
+suite_size: 8	false_num: 5
+printtokens_total_coverage_branches_v7
+suite_size: 8	false_num: 1
+printtokens_additional_coverage_statements_v1
+suite_size: 5	false_num: 0
+printtokens_additional_coverage_statements_v2
+suite_size: 5	false_num: 2
+printtokens_additional_coverage_statements_v3
+suite_size: 5	false_num: 1
+printtokens_additional_coverage_statements_v4
+suite_size: 5	false_num: 0
+printtokens_additional_coverage_statements_v5
+suite_size: 5	false_num: 2
+printtokens_additional_coverage_statements_v6
+suite_size: 5	false_num: 1
+printtokens_additional_coverage_statements_v7
+suite_size: 5	false_num: 0
+printtokens_additional_coverage_branches_v1
+suite_size: 6	false_num: 0
+printtokens_additional_coverage_branches_v2
+suite_size: 6	false_num: 2
+printtokens_additional_coverage_branches_v3
+suite_size: 6	false_num: 1
+printtokens_additional_coverage_branches_v4
+suite_size: 6	false_num: 0
+printtokens_additional_coverage_branches_v5
+suite_size: 6	false_num: 2
+printtokens_additional_coverage_branches_v6
+suite_size: 6	false_num: 1
+printtokens_additional_coverage_branches_v7
+suite_size: 6	false_num: 0
+replace_universe_v1
+suite_size: 5542	false_num: 68
+replace_universe_v2
+suite_size: 5542	false_num: 37
+replace_universe_v3
+suite_size: 5542	false_num: 130
+replace_universe_v4
+suite_size: 5542	false_num: 143
+replace_universe_v5
+suite_size: 5542	false_num: 268
+replace_universe_v6
+suite_size: 5542	false_num: 96
+replace_universe_v7
+suite_size: 5542	false_num: 83
+replace_universe_v8
+suite_size: 5542	false_num: 54
+replace_universe_v9
+suite_size: 5542	false_num: 30
+replace_universe_v10
+suite_size: 5542	false_num: 23
+replace_universe_v11
+suite_size: 5542	false_num: 30
+replace_universe_v12
+suite_size: 5542	false_num: 310
+replace_universe_v13
+suite_size: 5542	false_num: 158
+replace_universe_v14
+suite_size: 5542	false_num: 136
+replace_universe_v15
+suite_size: 5542	false_num: 60
+replace_universe_v16
+suite_size: 5542	false_num: 83
+replace_universe_v17
+suite_size: 5542	false_num: 24
+replace_universe_v18
+suite_size: 5542	false_num: 209
+replace_universe_v19
+suite_size: 5542	false_num: 3
+replace_universe_v20
+suite_size: 5542	false_num: 22
+replace_universe_v21
+suite_size: 5542	false_num: 3
+replace_universe_v22
+suite_size: 5542	false_num: 18
+replace_universe_v23
+suite_size: 5542	false_num: 22
+replace_universe_v24
+suite_size: 5542	false_num: 168
+replace_universe_v25
+suite_size: 5542	false_num: 3
+replace_universe_v26
+suite_size: 5542	false_num: 91
+replace_universe_v27
+suite_size: 5542	false_num: 261
+replace_universe_v28
+suite_size: 5542	false_num: 142
+replace_universe_v29
+suite_size: 5542	false_num: 64
+replace_universe_v30
+suite_size: 5542	false_num: 284
+replace_universe_v31
+suite_size: 5542	false_num: 209
+replace_random_statements_v1
+suite_size: 20	false_num: 0
+replace_random_statements_v2
+suite_size: 20	false_num: 0
+replace_random_statements_v3
+suite_size: 20	false_num: 0
+replace_random_statements_v4
+suite_size: 20	false_num: 0
+replace_random_statements_v5
+suite_size: 20	false_num: 1
+replace_random_statements_v6
+suite_size: 20	false_num: 1
+replace_random_statements_v7
+suite_size: 20	false_num: 0
+replace_random_statements_v8
+suite_size: 20	false_num: 1
+replace_random_statements_v9
+suite_size: 20	false_num: 0
+replace_random_statements_v10
+suite_size: 20	false_num: 1
+replace_random_statements_v11
+suite_size: 20	false_num: 0
+replace_random_statements_v12
+suite_size: 20	false_num: 1
+replace_random_statements_v13
+suite_size: 20	false_num: 0
+replace_random_statements_v14
+suite_size: 20	false_num: 0
+replace_random_statements_v15
+suite_size: 20	false_num: 0
+replace_random_statements_v16
+suite_size: 20	false_num: 0
+replace_random_statements_v17
+suite_size: 20	false_num: 0
+replace_random_statements_v18
+suite_size: 20	false_num: 0
+replace_random_statements_v19
+suite_size: 20	false_num: 0
+replace_random_statements_v20
+suite_size: 20	false_num: 0
+replace_random_statements_v21
+suite_size: 20	false_num: 0
+replace_random_statements_v22
+suite_size: 20	false_num: 0
+replace_random_statements_v23
+suite_size: 20	false_num: 0
+replace_random_statements_v24
+suite_size: 20	false_num: 1
+replace_random_statements_v25
+suite_size: 20	false_num: 0
+replace_random_statements_v26
+suite_size: 20	false_num: 0
+replace_random_statements_v27
+suite_size: 20	false_num: 1
+replace_random_statements_v28
+suite_size: 20	false_num: 0
+replace_random_statements_v29
+suite_size: 20	false_num: 0
+replace_random_statements_v30
+suite_size: 20	false_num: 0
+replace_random_statements_v31
+suite_size: 20	false_num: 0
+replace_random_branches_v1
+suite_size: 29	false_num: 1
+replace_random_branches_v2
+suite_size: 29	false_num: 1
+replace_random_branches_v3
+suite_size: 29	false_num: 1
+replace_random_branches_v4
+suite_size: 29	false_num: 1
+replace_random_branches_v5
+suite_size: 29	false_num: 1
+replace_random_branches_v6
+suite_size: 29	false_num: 0
+replace_random_branches_v7
+suite_size: 29	false_num: 0
+replace_random_branches_v8
+suite_size: 29	false_num: 1
+replace_random_branches_v9
+suite_size: 29	false_num: 0
+replace_random_branches_v10
+suite_size: 29	false_num: 1
+replace_random_branches_v11
+suite_size: 29	false_num: 0
+replace_random_branches_v12
+suite_size: 29	false_num: 3
+replace_random_branches_v13
+suite_size: 29	false_num: 1
+replace_random_branches_v14
+suite_size: 29	false_num: 0
+replace_random_branches_v15
+suite_size: 29	false_num: 0
+replace_random_branches_v16
+suite_size: 29	false_num: 0
+replace_random_branches_v17
+suite_size: 29	false_num: 0
+replace_random_branches_v18
+suite_size: 29	false_num: 2
+replace_random_branches_v19
+suite_size: 29	false_num: 0
+replace_random_branches_v20
+suite_size: 29	false_num: 0
+replace_random_branches_v21
+suite_size: 29	false_num: 0
+replace_random_branches_v22
+suite_size: 29	false_num: 0
+replace_random_branches_v23
+suite_size: 29	false_num: 0
+replace_random_branches_v24
+suite_size: 29	false_num: 1
+replace_random_branches_v25
+suite_size: 29	false_num: 0
+replace_random_branches_v26
+suite_size: 29	false_num: 0
+replace_random_branches_v27
+suite_size: 29	false_num: 1
+replace_random_branches_v28
+suite_size: 29	false_num: 2
+replace_random_branches_v29
+suite_size: 29	false_num: 0
+replace_random_branches_v30
+suite_size: 29	false_num: 2
+replace_random_branches_v31
+suite_size: 29	false_num: 2
+replace_total_coverage_statements_v1
+suite_size: 13	false_num: 2
+replace_total_coverage_statements_v2
+suite_size: 13	false_num: 2
+replace_total_coverage_statements_v3
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v4
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v5
+suite_size: 13	false_num: 2
+replace_total_coverage_statements_v6
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v7
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v8
+suite_size: 13	false_num: 1
+replace_total_coverage_statements_v9
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v10
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v11
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v12
+suite_size: 13	false_num: 3
+replace_total_coverage_statements_v13
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v14
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v15
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v16
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v17
+suite_size: 13	false_num: 1
+replace_total_coverage_statements_v18
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v19
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v20
+suite_size: 13	false_num: 1
+replace_total_coverage_statements_v21
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v22
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v23
+suite_size: 13	false_num: 1
+replace_total_coverage_statements_v24
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v25
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v26
+suite_size: 13	false_num: 1
+replace_total_coverage_statements_v27
+suite_size: 13	false_num: 3
+replace_total_coverage_statements_v28
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v29
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v30
+suite_size: 13	false_num: 0
+replace_total_coverage_statements_v31
+suite_size: 13	false_num: 0
+replace_total_coverage_branches_v1
+suite_size: 21	false_num: 2
+replace_total_coverage_branches_v2
+suite_size: 21	false_num: 2
+replace_total_coverage_branches_v3
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v4
+suite_size: 21	false_num: 2
+replace_total_coverage_branches_v5
+suite_size: 21	false_num: 4
+replace_total_coverage_branches_v6
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v7
+suite_size: 21	false_num: 3
+replace_total_coverage_branches_v8
+suite_size: 21	false_num: 1
+replace_total_coverage_branches_v9
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v10
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v11
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v12
+suite_size: 21	false_num: 3
+replace_total_coverage_branches_v13
+suite_size: 21	false_num: 2
+replace_total_coverage_branches_v14
+suite_size: 21	false_num: 1
+replace_total_coverage_branches_v15
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v16
+suite_size: 21	false_num: 3
+replace_total_coverage_branches_v17
+suite_size: 21	false_num: 1
+replace_total_coverage_branches_v18
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v19
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v20
+suite_size: 21	false_num: 1
+replace_total_coverage_branches_v21
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v22
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v23
+suite_size: 21	false_num: 1
+replace_total_coverage_branches_v24
+suite_size: 21	false_num: 2
+replace_total_coverage_branches_v25
+suite_size: 21	false_num: 0
+replace_total_coverage_branches_v26
+suite_size: 21	false_num: 1
+replace_total_coverage_branches_v27
+suite_size: 21	false_num: 5
+replace_total_coverage_branches_v28
+suite_size: 21	false_num: 3
+replace_total_coverage_branches_v29
+suite_size: 21	false_num: 3
+replace_total_coverage_branches_v30
+suite_size: 21	false_num: 7
+replace_total_coverage_branches_v31
+suite_size: 21	false_num: 0
+replace_additional_coverage_statements_v1
+suite_size: 9	false_num: 1
+replace_additional_coverage_statements_v2
+suite_size: 9	false_num: 1
+replace_additional_coverage_statements_v3
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v4
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v5
+suite_size: 9	false_num: 1
+replace_additional_coverage_statements_v6
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v7
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v8
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v9
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v10
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v11
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v12
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v13
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v14
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v15
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v16
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v17
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v18
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v19
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v20
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v21
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v22
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v23
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v24
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v25
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v26
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v27
+suite_size: 9	false_num: 1
+replace_additional_coverage_statements_v28
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v29
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v30
+suite_size: 9	false_num: 0
+replace_additional_coverage_statements_v31
+suite_size: 9	false_num: 0
+replace_additional_coverage_branches_v1
+suite_size: 11	false_num: 2
+replace_additional_coverage_branches_v2
+suite_size: 11	false_num: 1
+replace_additional_coverage_branches_v3
+suite_size: 11	false_num: 1
+replace_additional_coverage_branches_v4
+suite_size: 11	false_num: 1
+replace_additional_coverage_branches_v5
+suite_size: 11	false_num: 2
+replace_additional_coverage_branches_v6
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v7
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v8
+suite_size: 11	false_num: 1
+replace_additional_coverage_branches_v9
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v10
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v11
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v12
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v13
+suite_size: 11	false_num: 1
+replace_additional_coverage_branches_v14
+suite_size: 11	false_num: 1
+replace_additional_coverage_branches_v15
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v16
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v17
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v18
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v19
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v20
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v21
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v22
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v23
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v24
+suite_size: 11	false_num: 1
+replace_additional_coverage_branches_v25
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v26
+suite_size: 11	false_num: 0
+replace_additional_coverage_branches_v27
+suite_size: 11	false_num: 2
+replace_additional_coverage_branches_v28
+suite_size: 11	false_num: 1
+replace_additional_coverage_branches_v29
+suite_size: 11	false_num: 1
+replace_additional_coverage_branches_v30
+suite_size: 11	false_num: 2
+replace_additional_coverage_branches_v31
+suite_size: 11	false_num: 0
+schedule_universe_v1
+suite_size: 2634	false_num: 7
+schedule_universe_v2
+suite_size: 2634	false_num: 210
+schedule_universe_v3
+suite_size: 2634	false_num: 158
+schedule_universe_v4
+suite_size: 2634	false_num: 290
+schedule_universe_v5
+suite_size: 2634	false_num: 41
+schedule_universe_v6
+suite_size: 2634	false_num: 7
+schedule_universe_v7
+suite_size: 2634	false_num: 27
+schedule_universe_v8
+suite_size: 2634	false_num: 31
+schedule_universe_v9
+suite_size: 2634	false_num: 15
+schedule_random_statements_v1
+suite_size: 6	false_num: 0
+schedule_random_statements_v2
+suite_size: 6	false_num: 0
+schedule_random_statements_v3
+suite_size: 6	false_num: 1
+schedule_random_statements_v4
+suite_size: 6	false_num: 0
+schedule_random_statements_v5
+suite_size: 6	false_num: 0
+schedule_random_statements_v6
+suite_size: 6	false_num: 0
+schedule_random_statements_v7
+suite_size: 6	false_num: 0
+schedule_random_statements_v8
+suite_size: 6	false_num: 0
+schedule_random_statements_v9
+suite_size: 6	false_num: 1
+schedule_random_branches_v1
+suite_size: 11	false_num: 1
+schedule_random_branches_v2
+suite_size: 11	false_num: 0
+schedule_random_branches_v3
+suite_size: 11	false_num: 1
+schedule_random_branches_v4
+suite_size: 11	false_num: 1
+schedule_random_branches_v5
+suite_size: 11	false_num: 2
+schedule_random_branches_v6
+suite_size: 11	false_num: 1
+schedule_random_branches_v7
+suite_size: 11	false_num: 0
+schedule_random_branches_v8
+suite_size: 11	false_num: 0
+schedule_random_branches_v9
+suite_size: 11	false_num: 1
+schedule_total_coverage_statements_v1
+suite_size: 3	false_num: 0
+schedule_total_coverage_statements_v2
+suite_size: 3	false_num: 1
+schedule_total_coverage_statements_v3
+suite_size: 3	false_num: 0
+schedule_total_coverage_statements_v4
+suite_size: 3	false_num: 0
+schedule_total_coverage_statements_v5
+suite_size: 3	false_num: 0
+schedule_total_coverage_statements_v6
+suite_size: 3	false_num: 0
+schedule_total_coverage_statements_v7
+suite_size: 3	false_num: 0
+schedule_total_coverage_statements_v8
+suite_size: 3	false_num: 0
+schedule_total_coverage_statements_v9
+suite_size: 3	false_num: 1
+schedule_total_coverage_branches_v1
+suite_size: 8	false_num: 1
+schedule_total_coverage_branches_v2
+suite_size: 8	false_num: 4
+schedule_total_coverage_branches_v3
+suite_size: 8	false_num: 0
+schedule_total_coverage_branches_v4
+suite_size: 8	false_num: 0
+schedule_total_coverage_branches_v5
+suite_size: 8	false_num: 3
+schedule_total_coverage_branches_v6
+suite_size: 8	false_num: 1
+schedule_total_coverage_branches_v7
+suite_size: 8	false_num: 0
+schedule_total_coverage_branches_v8
+suite_size: 8	false_num: 0
+schedule_total_coverage_branches_v9
+suite_size: 8	false_num: 1
+schedule_additional_coverage_statements_v1
+suite_size: 3	false_num: 1
+schedule_additional_coverage_statements_v2
+suite_size: 3	false_num: 1
+schedule_additional_coverage_statements_v3
+suite_size: 3	false_num: 0
+schedule_additional_coverage_statements_v4
+suite_size: 3	false_num: 0
+schedule_additional_coverage_statements_v5
+suite_size: 3	false_num: 1
+schedule_additional_coverage_statements_v6
+suite_size: 3	false_num: 1
+schedule_additional_coverage_statements_v7
+suite_size: 3	false_num: 0
+schedule_additional_coverage_statements_v8
+suite_size: 3	false_num: 0
+schedule_additional_coverage_statements_v9
+suite_size: 3	false_num: 1
+schedule_additional_coverage_branches_v1
+suite_size: 7	false_num: 1
+schedule_additional_coverage_branches_v2
+suite_size: 7	false_num: 1
+schedule_additional_coverage_branches_v3
+suite_size: 7	false_num: 0
+schedule_additional_coverage_branches_v4
+suite_size: 7	false_num: 0
+schedule_additional_coverage_branches_v5
+suite_size: 7	false_num: 2
+schedule_additional_coverage_branches_v6
+suite_size: 7	false_num: 1
+schedule_additional_coverage_branches_v7
+suite_size: 7	false_num: 0
+schedule_additional_coverage_branches_v8
+suite_size: 7	false_num: 0
+schedule_additional_coverage_branches_v9
+suite_size: 7	false_num: 1
+schedule2_universe_v1
+suite_size: 2679	false_num: 65
+schedule2_universe_v2
+suite_size: 2679	false_num: 31
+schedule2_universe_v3
+suite_size: 2679	false_num: 34
+schedule2_universe_v4
+suite_size: 2679	false_num: 2
+schedule2_universe_v5
+suite_size: 2679	false_num: 32
+schedule2_universe_v6
+suite_size: 2679	false_num: 7
+schedule2_universe_v7
+suite_size: 2679	false_num: 31
+schedule2_universe_v8
+suite_size: 2679	false_num: 47
+schedule2_universe_v9
+suite_size: 2679	false_num: 46
+schedule2_random_statements_v1
+suite_size: 6	false_num: 0
+schedule2_random_statements_v2
+suite_size: 6	false_num: 0
+schedule2_random_statements_v3
+suite_size: 6	false_num: 0
+schedule2_random_statements_v4
+suite_size: 6	false_num: 0
+schedule2_random_statements_v5
+suite_size: 6	false_num: 0
+schedule2_random_statements_v6
+suite_size: 6	false_num: 0
+schedule2_random_statements_v7
+suite_size: 6	false_num: 0
+schedule2_random_statements_v8
+suite_size: 6	false_num: 0
+schedule2_random_statements_v9
+suite_size: 6	false_num: 0
+schedule2_random_branches_v1
+suite_size: 11	false_num: 1
+schedule2_random_branches_v2
+suite_size: 11	false_num: 0
+schedule2_random_branches_v3
+suite_size: 11	false_num: 1
+schedule2_random_branches_v4
+suite_size: 11	false_num: 0
+schedule2_random_branches_v5
+suite_size: 11	false_num: 0
+schedule2_random_branches_v6
+suite_size: 11	false_num: 0
+schedule2_random_branches_v7
+suite_size: 11	false_num: 0
+schedule2_random_branches_v8
+suite_size: 11	false_num: 2
+schedule2_random_branches_v9
+suite_size: 11	false_num: 2
+schedule2_total_coverage_statements_v1
+suite_size: 1	false_num: 1
+schedule2_total_coverage_statements_v2
+suite_size: 1	false_num: 0
+schedule2_total_coverage_statements_v3
+suite_size: 1	false_num: 0
+schedule2_total_coverage_statements_v4
+suite_size: 1	false_num: 0
+schedule2_total_coverage_statements_v5
+suite_size: 1	false_num: 0
+schedule2_total_coverage_statements_v6
+suite_size: 1	false_num: 0
+schedule2_total_coverage_statements_v7
+suite_size: 1	false_num: 0
+schedule2_total_coverage_statements_v8
+suite_size: 1	false_num: 1
+schedule2_total_coverage_statements_v9
+suite_size: 1	false_num: 1
+schedule2_total_coverage_branches_v1
+suite_size: 7	false_num: 0
+schedule2_total_coverage_branches_v2
+suite_size: 7	false_num: 1
+schedule2_total_coverage_branches_v3
+suite_size: 7	false_num: 1
+schedule2_total_coverage_branches_v4
+suite_size: 7	false_num: 0
+schedule2_total_coverage_branches_v5
+suite_size: 7	false_num: 0
+schedule2_total_coverage_branches_v6
+suite_size: 7	false_num: 0
+schedule2_total_coverage_branches_v7
+suite_size: 7	false_num: 1
+schedule2_total_coverage_branches_v8
+suite_size: 7	false_num: 2
+schedule2_total_coverage_branches_v9
+suite_size: 7	false_num: 2
+schedule2_additional_coverage_statements_v1
+suite_size: 1	false_num: 1
+schedule2_additional_coverage_statements_v2
+suite_size: 1	false_num: 0
+schedule2_additional_coverage_statements_v3
+suite_size: 1	false_num: 0
+schedule2_additional_coverage_statements_v4
+suite_size: 1	false_num: 0
+schedule2_additional_coverage_statements_v5
+suite_size: 1	false_num: 0
+schedule2_additional_coverage_statements_v6
+suite_size: 1	false_num: 0
+schedule2_additional_coverage_statements_v7
+suite_size: 1	false_num: 0
+schedule2_additional_coverage_statements_v8
+suite_size: 1	false_num: 1
+schedule2_additional_coverage_statements_v9
+suite_size: 1	false_num: 1
+schedule2_additional_coverage_branches_v1
+suite_size: 5	false_num: 0
+schedule2_additional_coverage_branches_v2
+suite_size: 5	false_num: 0
+schedule2_additional_coverage_branches_v3
+suite_size: 5	false_num: 0
+schedule2_additional_coverage_branches_v4
+suite_size: 5	false_num: 0
+schedule2_additional_coverage_branches_v5
+suite_size: 5	false_num: 0
+schedule2_additional_coverage_branches_v6
+suite_size: 5	false_num: 0
+schedule2_additional_coverage_branches_v7
+suite_size: 5	false_num: 0
+schedule2_additional_coverage_branches_v8
+suite_size: 5	false_num: 1
+schedule2_additional_coverage_branches_v9
+suite_size: 5	false_num: 1
+tcas_universe_v1
+suite_size: 1590	false_num: 129
+tcas_universe_v2
+suite_size: 1590	false_num: 59
+tcas_universe_v3
+suite_size: 1590	false_num: 23
+tcas_universe_v4
+suite_size: 1590	false_num: 23
+tcas_universe_v5
+suite_size: 1590	false_num: 10
+tcas_universe_v6
+suite_size: 1590	false_num: 12
+tcas_universe_v7
+suite_size: 1590	false_num: 36
+tcas_universe_v8
+suite_size: 1590	false_num: 1
+tcas_universe_v9
+suite_size: 1590	false_num: 7
+tcas_universe_v10
+suite_size: 1590	false_num: 14
+tcas_universe_v11
+suite_size: 1590	false_num: 14
+tcas_universe_v12
+suite_size: 1590	false_num: 70
+tcas_universe_v13
+suite_size: 1590	false_num: 4
+tcas_universe_v14
+suite_size: 1590	false_num: 50
+tcas_universe_v15
+suite_size: 1590	false_num: 10
+tcas_universe_v16
+suite_size: 1590	false_num: 69
+tcas_universe_v17
+suite_size: 1590	false_num: 35
+tcas_universe_v18
+suite_size: 1590	false_num: 29
+tcas_universe_v19
+suite_size: 1590	false_num: 18
+tcas_universe_v20
+suite_size: 1590	false_num: 15
+tcas_universe_v21
+suite_size: 1590	false_num: 16
+tcas_universe_v22
+suite_size: 1590	false_num: 11
+tcas_universe_v23
+suite_size: 1590	false_num: 42
+tcas_universe_v24
+suite_size: 1590	false_num: 7
+tcas_universe_v25
+suite_size: 1590	false_num: 4
+tcas_universe_v26
+suite_size: 1590	false_num: 11
+tcas_universe_v27
+suite_size: 1590	false_num: 10
+tcas_universe_v28
+suite_size: 1590	false_num: 76
+tcas_universe_v29
+suite_size: 1590	false_num: 18
+tcas_universe_v30
+suite_size: 1590	false_num: 58
+tcas_universe_v31
+suite_size: 1590	false_num: 14
+tcas_universe_v32
+suite_size: 1590	false_num: 2
+tcas_universe_v33
+suite_size: 1590	false_num: 89
+tcas_universe_v34
+suite_size: 1590	false_num: 77
+tcas_universe_v35
+suite_size: 1590	false_num: 76
+tcas_universe_v36
+suite_size: 1590	false_num: 123
+tcas_universe_v37
+suite_size: 1590	false_num: 95
+tcas_universe_v38
+suite_size: 1590	false_num: 75
+tcas_universe_v39
+suite_size: 1590	false_num: 4
+tcas_universe_v40
+suite_size: 1590	false_num: 123
+tcas_universe_v41
+suite_size: 1590	false_num: 23
+tcas_random_statements_v1
+suite_size: 4	false_num: 0
+tcas_random_statements_v2
+suite_size: 4	false_num: 1
+tcas_random_statements_v3
+suite_size: 4	false_num: 0
+tcas_random_statements_v4
+suite_size: 4	false_num: 0
+tcas_random_statements_v5
+suite_size: 4	false_num: 0
+tcas_random_statements_v6
+suite_size: 4	false_num: 0
+tcas_random_statements_v7
+suite_size: 4	false_num: 0
+tcas_random_statements_v8
+suite_size: 4	false_num: 0
+tcas_random_statements_v9
+suite_size: 4	false_num: 0
+tcas_random_statements_v10
+suite_size: 4	false_num: 0
+tcas_random_statements_v11
+suite_size: 4	false_num: 0
+tcas_random_statements_v12
+suite_size: 4	false_num: 0
+tcas_random_statements_v13
+suite_size: 4	false_num: 0
+tcas_random_statements_v14
+suite_size: 4	false_num: 1
+tcas_random_statements_v15
+suite_size: 4	false_num: 0
+tcas_random_statements_v16
+suite_size: 4	false_num: 0
+tcas_random_statements_v17
+suite_size: 4	false_num: 0
+tcas_random_statements_v18
+suite_size: 4	false_num: 0
+tcas_random_statements_v19
+suite_size: 4	false_num: 0
+tcas_random_statements_v20
+suite_size: 4	false_num: 0
+tcas_random_statements_v21
+suite_size: 4	false_num: 0
+tcas_random_statements_v22
+suite_size: 4	false_num: 0
+tcas_random_statements_v23
+suite_size: 4	false_num: 0
+tcas_random_statements_v24
+suite_size: 4	false_num: 0
+tcas_random_statements_v25
+suite_size: 4	false_num: 0
+tcas_random_statements_v26
+suite_size: 4	false_num: 0
+tcas_random_statements_v27
+suite_size: 4	false_num: 0
+tcas_random_statements_v28
+suite_size: 4	false_num: 0
+tcas_random_statements_v29
+suite_size: 4	false_num: 0
+tcas_random_statements_v30
+suite_size: 4	false_num: 0
+tcas_random_statements_v31
+suite_size: 4	false_num: 0
+tcas_random_statements_v32
+suite_size: 4	false_num: 0
+tcas_random_statements_v33
+suite_size: 4	false_num: 0
+tcas_random_statements_v34
+suite_size: 4	false_num: 0
+tcas_random_statements_v35
+suite_size: 4	false_num: 0
+tcas_random_statements_v36
+suite_size: 4	false_num: 1
+tcas_random_statements_v37
+suite_size: 4	false_num: 0
+tcas_random_statements_v38
+suite_size: 4	false_num: 1
+tcas_random_statements_v39
+suite_size: 4	false_num: 0
+tcas_random_statements_v40
+suite_size: 4	false_num: 1
+tcas_random_statements_v41
+suite_size: 4	false_num: 0
+tcas_random_branches_v1
+suite_size: 14	false_num: 1
+tcas_random_branches_v2
+suite_size: 14	false_num: 1
+tcas_random_branches_v3
+suite_size: 14	false_num: 0
+tcas_random_branches_v4
+suite_size: 14	false_num: 0
+tcas_random_branches_v5
+suite_size: 14	false_num: 0
+tcas_random_branches_v6
+suite_size: 14	false_num: 0
+tcas_random_branches_v7
+suite_size: 14	false_num: 0
+tcas_random_branches_v8
+suite_size: 14	false_num: 0
+tcas_random_branches_v9
+suite_size: 14	false_num: 0
+tcas_random_branches_v10
+suite_size: 14	false_num: 0
+tcas_random_branches_v11
+suite_size: 14	false_num: 0
+tcas_random_branches_v12
+suite_size: 14	false_num: 0
+tcas_random_branches_v13
+suite_size: 14	false_num: 0
+tcas_random_branches_v14
+suite_size: 14	false_num: 0
+tcas_random_branches_v15
+suite_size: 14	false_num: 0
+tcas_random_branches_v16
+suite_size: 14	false_num: 1
+tcas_random_branches_v17
+suite_size: 14	false_num: 0
+tcas_random_branches_v18
+suite_size: 14	false_num: 0
+tcas_random_branches_v19
+suite_size: 14	false_num: 0
+tcas_random_branches_v20
+suite_size: 14	false_num: 0
+tcas_random_branches_v21
+suite_size: 14	false_num: 0
+tcas_random_branches_v22
+suite_size: 14	false_num: 0
+tcas_random_branches_v23
+suite_size: 14	false_num: 0
+tcas_random_branches_v24
+suite_size: 14	false_num: 0
+tcas_random_branches_v25
+suite_size: 14	false_num: 0
+tcas_random_branches_v26
+suite_size: 14	false_num: 0
+tcas_random_branches_v27
+suite_size: 14	false_num: 0
+tcas_random_branches_v28
+suite_size: 14	false_num: 0
+tcas_random_branches_v29
+suite_size: 14	false_num: 0
+tcas_random_branches_v30
+suite_size: 14	false_num: 0
+tcas_random_branches_v31
+suite_size: 14	false_num: 0
+tcas_random_branches_v32
+suite_size: 14	false_num: 0
+tcas_random_branches_v33
+suite_size: 14	false_num: 1
+tcas_random_branches_v34
+suite_size: 14	false_num: 0
+tcas_random_branches_v35
+suite_size: 14	false_num: 0
+tcas_random_branches_v36
+suite_size: 14	false_num: 1
+tcas_random_branches_v37
+suite_size: 14	false_num: 0
+tcas_random_branches_v38
+suite_size: 14	false_num: 1
+tcas_random_branches_v39
+suite_size: 14	false_num: 0
+tcas_random_branches_v40
+suite_size: 14	false_num: 1
+tcas_random_branches_v41
+suite_size: 14	false_num: 0
+tcas_total_coverage_statements_v1
+suite_size: 4	false_num: 1
+tcas_total_coverage_statements_v2
+suite_size: 4	false_num: 1
+tcas_total_coverage_statements_v3
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v4
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v5
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v6
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v7
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v8
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v9
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v10
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v11
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v12
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v13
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v14
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v15
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v16
+suite_size: 4	false_num: 1
+tcas_total_coverage_statements_v17
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v18
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v19
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v20
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v21
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v22
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v23
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v24
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v25
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v26
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v27
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v28
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v29
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v30
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v31
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v32
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v33
+suite_size: 4	false_num: 1
+tcas_total_coverage_statements_v34
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v35
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v36
+suite_size: 4	false_num: 1
+tcas_total_coverage_statements_v37
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v38
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v39
+suite_size: 4	false_num: 0
+tcas_total_coverage_statements_v40
+suite_size: 4	false_num: 1
+tcas_total_coverage_statements_v41
+suite_size: 4	false_num: 0
+tcas_total_coverage_branches_v1
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v2
+suite_size: 15	false_num: 2
+tcas_total_coverage_branches_v3
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v4
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v5
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v6
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v7
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v8
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v9
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v10
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v11
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v12
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v13
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v14
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v15
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v16
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v17
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v18
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v19
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v20
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v21
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v22
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v23
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v24
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v25
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v26
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v27
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v28
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v29
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v30
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v31
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v32
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v33
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v34
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v35
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v36
+suite_size: 15	false_num: 5
+tcas_total_coverage_branches_v37
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v38
+suite_size: 15	false_num: 1
+tcas_total_coverage_branches_v39
+suite_size: 15	false_num: 0
+tcas_total_coverage_branches_v40
+suite_size: 15	false_num: 5
+tcas_total_coverage_branches_v41
+suite_size: 15	false_num: 0
+tcas_additional_coverage_statements_v1
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v2
+suite_size: 4	false_num: 1
+tcas_additional_coverage_statements_v3
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v4
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v5
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v6
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v7
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v8
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v9
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v10
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v11
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v12
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v13
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v14
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v15
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v16
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v17
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v18
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v19
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v20
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v21
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v22
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v23
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v24
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v25
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v26
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v27
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v28
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v29
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v30
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v31
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v32
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v33
+suite_size: 4	false_num: 1
+tcas_additional_coverage_statements_v34
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v35
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v36
+suite_size: 4	false_num: 1
+tcas_additional_coverage_statements_v37
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v38
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v39
+suite_size: 4	false_num: 0
+tcas_additional_coverage_statements_v40
+suite_size: 4	false_num: 1
+tcas_additional_coverage_statements_v41
+suite_size: 4	false_num: 0
+tcas_additional_coverage_branches_v1
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v2
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v3
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v4
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v5
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v6
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v7
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v8
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v9
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v10
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v11
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v12
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v13
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v14
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v15
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v16
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v17
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v18
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v19
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v20
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v21
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v22
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v23
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v24
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v25
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v26
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v27
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v28
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v29
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v30
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v31
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v32
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v33
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v34
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v35
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v36
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v37
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v38
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v39
+suite_size: 11	false_num: 0
+tcas_additional_coverage_branches_v40
+suite_size: 11	false_num: 1
+tcas_additional_coverage_branches_v41
+suite_size: 11	false_num: 0
+totinfo_universe_v1
+suite_size: 1026	false_num: 153
+totinfo_universe_v2
+suite_size: 1026	false_num: 9
+totinfo_universe_v3
+suite_size: 1026	false_num: 0
+totinfo_universe_v4
+suite_size: 1026	false_num: 33
+totinfo_universe_v5
+suite_size: 1026	false_num: 28
+totinfo_universe_v6
+suite_size: 1026	false_num: 47
+totinfo_universe_v7
+suite_size: 1026	false_num: 123
+totinfo_universe_v8
+suite_size: 1026	false_num: 197
+totinfo_universe_v9
+suite_size: 1026	false_num: 36
+totinfo_universe_v10
+suite_size: 1026	false_num: 8
+totinfo_universe_v11
+suite_size: 1026	false_num: 197
+totinfo_universe_v12
+suite_size: 1026	false_num: 33
+totinfo_universe_v13
+suite_size: 1026	false_num: 128
+totinfo_universe_v14
+suite_size: 1026	false_num: 0
+totinfo_universe_v15
+suite_size: 1026	false_num: 197
+totinfo_universe_v16
+suite_size: 1026	false_num: 170
+totinfo_universe_v17
+suite_size: 1026	false_num: 43
+totinfo_universe_v18
+suite_size: 1026	false_num: 117
+totinfo_universe_v19
+suite_size: 1026	false_num: 88
+totinfo_universe_v20
+suite_size: 1026	false_num: 83
+totinfo_universe_v21
+suite_size: 1026	false_num: 101
+totinfo_universe_v22
+suite_size: 1026	false_num: 23
+totinfo_universe_v23
+suite_size: 1026	false_num: 70
+totinfo_random_statements_v1
+suite_size: 6	false_num: 1
+totinfo_random_statements_v2
+suite_size: 6	false_num: 0
+totinfo_random_statements_v3
+suite_size: 6	false_num: 0
+totinfo_random_statements_v4
+suite_size: 6	false_num: 0
+totinfo_random_statements_v5
+suite_size: 6	false_num: 0
+totinfo_random_statements_v6
+suite_size: 6	false_num: 0
+totinfo_random_statements_v7
+suite_size: 6	false_num: 1
+totinfo_random_statements_v8
+suite_size: 6	false_num: 1
+totinfo_random_statements_v9
+suite_size: 6	false_num: 0
+totinfo_random_statements_v10
+suite_size: 6	false_num: 0
+totinfo_random_statements_v11
+suite_size: 6	false_num: 1
+totinfo_random_statements_v12
+suite_size: 6	false_num: 0
+totinfo_random_statements_v13
+suite_size: 6	false_num: 1
+totinfo_random_statements_v14
+suite_size: 6	false_num: 0
+totinfo_random_statements_v15
+suite_size: 6	false_num: 1
+totinfo_random_statements_v16
+suite_size: 6	false_num: 1
+totinfo_random_statements_v17
+suite_size: 6	false_num: 0
+totinfo_random_statements_v18
+suite_size: 6	false_num: 1
+totinfo_random_statements_v19
+suite_size: 6	false_num: 0
+totinfo_random_statements_v20
+suite_size: 6	false_num: 0
+totinfo_random_statements_v21
+suite_size: 6	false_num: 0
+totinfo_random_statements_v22
+suite_size: 6	false_num: 0
+totinfo_random_statements_v23
+suite_size: 6	false_num: 0
+totinfo_random_branches_v1
+suite_size: 9	false_num: 4
+totinfo_random_branches_v2
+suite_size: 9	false_num: 1
+totinfo_random_branches_v3
+suite_size: 9	false_num: 0
+totinfo_random_branches_v4
+suite_size: 9	false_num: 2
+totinfo_random_branches_v5
+suite_size: 9	false_num: 1
+totinfo_random_branches_v6
+suite_size: 9	false_num: 0
+totinfo_random_branches_v7
+suite_size: 9	false_num: 1
+totinfo_random_branches_v8
+suite_size: 9	false_num: 2
+totinfo_random_branches_v9
+suite_size: 9	false_num: 1
+totinfo_random_branches_v10
+suite_size: 9	false_num: 0
+totinfo_random_branches_v11
+suite_size: 9	false_num: 2
+totinfo_random_branches_v12
+suite_size: 9	false_num: 1
+totinfo_random_branches_v13
+suite_size: 9	false_num: 2
+totinfo_random_branches_v14
+suite_size: 9	false_num: 0
+totinfo_random_branches_v15
+suite_size: 9	false_num: 2
+totinfo_random_branches_v16
+suite_size: 9	false_num: 2
+totinfo_random_branches_v17
+suite_size: 9	false_num: 2
+totinfo_random_branches_v18
+suite_size: 9	false_num: 1
+totinfo_random_branches_v19
+suite_size: 9	false_num: 0
+totinfo_random_branches_v20
+suite_size: 9	false_num: 1
+totinfo_random_branches_v21
+suite_size: 9	false_num: 0
+totinfo_random_branches_v22
+suite_size: 9	false_num: 0
+totinfo_random_branches_v23
+suite_size: 9	false_num: 2
+totinfo_total_coverage_statements_v1
+suite_size: 5	false_num: 5
+totinfo_total_coverage_statements_v2
+suite_size: 5	false_num: 0
+totinfo_total_coverage_statements_v3
+suite_size: 5	false_num: 0
+totinfo_total_coverage_statements_v4
+suite_size: 5	false_num: 0
+totinfo_total_coverage_statements_v5
+suite_size: 5	false_num: 1
+totinfo_total_coverage_statements_v6
+suite_size: 5	false_num: 0
+totinfo_total_coverage_statements_v7
+suite_size: 5	false_num: 1
+totinfo_total_coverage_statements_v8
+suite_size: 5	false_num: 3
+totinfo_total_coverage_statements_v9
+suite_size: 5	false_num: 1
+totinfo_total_coverage_statements_v10
+suite_size: 5	false_num: 1
+totinfo_total_coverage_statements_v11
+suite_size: 5	false_num: 3
+totinfo_total_coverage_statements_v12
+suite_size: 5	false_num: 1
+totinfo_total_coverage_statements_v13
+suite_size: 5	false_num: 1
+totinfo_total_coverage_statements_v14
+suite_size: 5	false_num: 0
+totinfo_total_coverage_statements_v15
+suite_size: 5	false_num: 3
+totinfo_total_coverage_statements_v16
+suite_size: 5	false_num: 2
+totinfo_total_coverage_statements_v17
+suite_size: 5	false_num: 0
+totinfo_total_coverage_statements_v18
+suite_size: 5	false_num: 2
+totinfo_total_coverage_statements_v19
+suite_size: 5	false_num: 0
+totinfo_total_coverage_statements_v20
+suite_size: 5	false_num: 2
+totinfo_total_coverage_statements_v21
+suite_size: 5	false_num: 0
+totinfo_total_coverage_statements_v22
+suite_size: 5	false_num: 0
+totinfo_total_coverage_statements_v23
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v1
+suite_size: 5	false_num: 4
+totinfo_total_coverage_branches_v2
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v3
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v4
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v5
+suite_size: 5	false_num: 1
+totinfo_total_coverage_branches_v6
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v7
+suite_size: 5	false_num: 1
+totinfo_total_coverage_branches_v8
+suite_size: 5	false_num: 4
+totinfo_total_coverage_branches_v9
+suite_size: 5	false_num: 1
+totinfo_total_coverage_branches_v10
+suite_size: 5	false_num: 1
+totinfo_total_coverage_branches_v11
+suite_size: 5	false_num: 4
+totinfo_total_coverage_branches_v12
+suite_size: 5	false_num: 1
+totinfo_total_coverage_branches_v13
+suite_size: 5	false_num: 1
+totinfo_total_coverage_branches_v14
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v15
+suite_size: 5	false_num: 4
+totinfo_total_coverage_branches_v16
+suite_size: 5	false_num: 2
+totinfo_total_coverage_branches_v17
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v18
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v19
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v20
+suite_size: 5	false_num: 1
+totinfo_total_coverage_branches_v21
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v22
+suite_size: 5	false_num: 0
+totinfo_total_coverage_branches_v23
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v1
+suite_size: 5	false_num: 2
+totinfo_additional_coverage_statements_v2
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v3
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v4
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v5
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v6
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v7
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v8
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v9
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v10
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v11
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v12
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v13
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v14
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v15
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v16
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v17
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v18
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v19
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v20
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_statements_v21
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v22
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_statements_v23
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v1
+suite_size: 5	false_num: 2
+totinfo_additional_coverage_branches_v2
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_branches_v3
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v4
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v5
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_branches_v6
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v7
+suite_size: 5	false_num: 2
+totinfo_additional_coverage_branches_v8
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_branches_v9
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_branches_v10
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_branches_v11
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_branches_v12
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v13
+suite_size: 5	false_num: 2
+totinfo_additional_coverage_branches_v14
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v15
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_branches_v16
+suite_size: 5	false_num: 2
+totinfo_additional_coverage_branches_v17
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v18
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v19
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v20
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_branches_v21
+suite_size: 5	false_num: 0
+totinfo_additional_coverage_branches_v22
+suite_size: 5	false_num: 1
+totinfo_additional_coverage_branches_v23
+suite_size: 5	false_num: 0

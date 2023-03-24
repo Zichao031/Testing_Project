@@ -1,0 +1,18 @@
+'^-?[^9-B]*$' 'a@n' < temp-test/510.inp.222.4
+'[^ec-a]' 'T}UP?R=Z[T|IG=mM' < input/ruin.166
+'[^4]' 'H' < input/ruin.50
+'^-?[^9-B]*' 'a@n' < temp-test/510.inp.222.4
+'[^0-9]' 'h' < input/ruin.1903
+'[^>-A]' '}5$dExu:2n)dfDa6,}^W.u#[w1}E_A' < input/ruin.1850
+'[^W]' '$3)' < input/ruin.174
+'@t[^0-9]' '8:,4]/)V7{X`&WCS"*eV#CiLR?Ey@wNa&*]Cm=?qNu/|~.wD' < input/ruin.668
+'[^A-G]' 'S q2fRrNoKYz' < input/ruin.1292
+'[^|]' '>' < input/ruin.1301
+'[^A-G]' 'k/bmA,d@Ho|K*j/g.0;>s\!' < input/ruin.1309
+'[^]' '@n67@n67@n' < moni/f8.inp
+'[^0-9z-}c-a]' 'X' < input/ruin.1842
+'[^D]' '\!Sc2Bq xEh9%Q/E?O' < input/ruin.1964
+'[^0-9]' 'KE>/]y#k0F\!l)' < input/ruin.444
+'[^0-9]' '%:ZqYa+)t&(X[6Q3?\Xa0eh-a' < input/ruin.960
+'[^0-9]' 'd4<\!_ait4(;qppZ;+yY=io19UK]0,*~YBq?P' < input/ruin.195
+'[^>-A]' 'SyR' < input/ruin.980

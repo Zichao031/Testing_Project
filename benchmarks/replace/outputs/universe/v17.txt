@@ -1,0 +1,24 @@
+'%@@' 'V@' < input/ruin.1083
+'@@' 'Q0GMm0#K\!hHA~y\! iDG`*sh0I@' < input/ruin.547
+'c*?' '@%&a@' < temp-test/354.inp.155.1
+'[^>-A]' '@' < input/ruin.873
+'@@' 'e;o1qYfx@' < input/ruin.661
+'=' '&g=Vs@DVtKv;1f. _Ep8=Z <(H&'\''qa&&0rVBXTKdv<G31kbGiPE1^kzBV;j=@' < input/ruin.552
+'@@' '[jJ3"kdXY?.O _q-kqD7^;wzC{m@' < input/ruin.352
+'[0-9]' '@' < input/ruin.1254
+'@@' 'DXrcj(\#39@' < input/ruin.215
+'c*?' '@%&a@' < temp-test/355.inp.155.2
+'@@' '3BLytQ69ILh[Q=v@' < input/ruin.608
+'[a-c]?[^9-B][9-B][^a--b][0-9]-@@*@' '@%&a' < temp-test/489.inp.214.1
+'%f' '\KNy,h0_sbVxG=nOfj@KNy,h0_sbVxG=nOfj@KNy,h0_sbVxG=nOfj@KNy,h0_sbVxG=nOfj@' < input/ruin.1034
+'}' 'r3pd3Trb.w]o@' < input/ruin.1952
+'[^N.Z-a]^_`a]X' 'S@' < input/ruin.1502
+'?' 'N&5vC\L {wtz|wCl|^@' < input/ruin.165
+'?' '@' < input/ruin.951
+'?c*@' '@n' < temp-test/349.inp.153.1
+'%?c*$' '@n@' < temp-test/350.inp.153.11
+'@@' '@' < input/ruin.175
+'@@' 'H4uOP@dgu<-LyyKn+[L@' < input/ruin.682
+'[0-9]*$' '@' < input/ruin.1254
+'%@t*' '@' < input/ruin.1787
+'@' 'yy' < moni/f7.inp

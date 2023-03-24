@@ -1,0 +1,38 @@
+< inputs/newtst596.tst
+< inputs/newtst435.tst
+< inputs/uslin.582
+< inputs/newtst171.tst
+< inputs/newtst503.tst
+inputs/uslin.846
+< inputs/tc203
+< inputs/newtst70.tst
+< inputs/newtst286.tst
+inputs/uslin.780
+inputs/uslin.416.noeof
+inputs/uslin.35
+inputs/uslin.724
+< inputs/uslin.4
+< inputs/uslin.325
+< inputs/uslin.302
+< inputs/newtst23.tst
+inputs/uslin.641
+< inputs/newtst454.tst
+inputs/uslin.1844
+< inputs/uslin.237
+< inputs/uslin.1671
+inputs/uslin.1757
+< inputs/newtst344.tst
+inputs/uslin.1040
+inputs/uslin.416
+< inputs/newtst146.tst
+< inputs/uslin.766
+< inputs/newtst364.tst
+< inputs/newtst361.tst
+inputs/uslin.724.noeof
+< inputs/newtst187.tst
+< inputs/newtst287.tst
+< inputs/newtst181.tst
+inputs/uslin.310
+< inputs/tc12
+< inputs/uslin.650
+inputs/uslin.1574

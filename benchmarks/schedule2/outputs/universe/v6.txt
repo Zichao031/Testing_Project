@@ -1,0 +1,7 @@
+5 5 1 < input/bdt.49
+7 2 8 < input/bdt.86
+1 1 1 < input/et.1
+2 7 9 < input/ft.6
+8 4 2 < input/bdt.29
+2 8 7 < input/bdt.100
+7 10 9 < input/ft.6

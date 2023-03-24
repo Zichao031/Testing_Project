@@ -1,0 +1,23 @@
+'[^z-}]' '9[u+JB/|waE*e&|<.eSjw]z2%O#}`XSA%F3R[' < input/ruin.132
+'[z-}]' 'g|9' < input/ruin.1164
+'[A-Gz-}]' '[8=' < input/ruin.1073
+'[z-}]' ':\!OthH~kXWn' < input/ruin.894
+'@m[^z-}]' 'Iz' < input/ruin.1474
+'[^z-}>-A]' 'H' < input/ruin.1933
+'[^z-}>-A0-9A-G>-A0-9]' 'X' < input/ruin.1054
+'[^z-}]' 'R' < input/ruin.1664
+'[^z-}A-Gc-ad?]' '&r)ZKX29[^e-9$' < input/ruin.745
+'[z-}]$' 'x<W#6\5oQ+{Kh2/kx#w6k`0;nznycd:QlGcd,' < input/ruin.1253
+'[^z-}z-}*c-a]' 'L' < input/ruin.1838
+'@@[z-}]'  < input/ruin.1263
+'[^0-9z-}c-a]' 'X' < input/ruin.1842
+'[1-@n]' '@-1' < moni/f7.inp
+'[z-}c-a]' '-MPvM'\''v' < input/ruin.244
+'[z-}]*$' 'x<W#6\5oQ+{Kh2/kx#w6k`0;nznycd:QlGcd,' < input/ruin.1253
+'[^z-}]' 'G' < input/ruin.796
+'[z-}]'  < input/ruin.1164
+'[A-Gk0-90-9z-}z-}]' '2' < input/ruin.147
+'[>-Az-}]' '<~{gj:' < input/ruin.603
+'@@[z-}]' '/s_ziY.ZkrBEgFC4_(F^|T`jH`t@hJl,j=#7sJ}' < input/ruin.1263
+'[z-}]' ' <oZI`e4Og*@]nAfBB=i%[o> ?~/z5>FDJ)"' < input/ruin.356
+'[z-}]' 'Vu' < input/ruin.1883

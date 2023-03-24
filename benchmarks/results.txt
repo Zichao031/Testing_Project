@@ -1,0 +1,1002 @@
+printtokens2_universe
+suite_size: 4057  false_num: 240  fault number: 1
+suite_size: 4057  false_num: 249  fault number: 2
+suite_size: 4057  false_num: 33  fault number: 3
+suite_size: 4057  false_num: 332  fault number: 4
+suite_size: 4057  false_num: 173  fault number: 5
+suite_size: 4057  false_num: 518  fault number: 6
+suite_size: 4057  false_num: 207  fault number: 7
+suite_size: 4057  false_num: 256  fault number: 8
+suite_size: 4057  false_num: 56  fault number: 9
+printtokens2_random_statements
+suite_size: 13  false_num: 1  fault number: 1
+suite_size: 13  false_num: 1  fault number: 2
+suite_size: 13  false_num: 0  fault number: 2
+suite_size: 13  false_num: 1  fault number: 3
+suite_size: 13  false_num: 1  fault number: 4
+suite_size: 13  false_num: 4  fault number: 5
+suite_size: 13  false_num: 0  fault number: 5
+suite_size: 13  false_num: 2  fault number: 6
+suite_size: 13  false_num: 1  fault number: 7
+printtokens2_random_branches
+suite_size: 17  false_num: 1  fault number: 1
+suite_size: 17  false_num: 1  fault number: 2
+suite_size: 17  false_num: 1  fault number: 3
+suite_size: 17  false_num: 2  fault number: 4
+suite_size: 17  false_num: 2  fault number: 5
+suite_size: 17  false_num: 2  fault number: 6
+suite_size: 17  false_num: 1  fault number: 7
+suite_size: 17  false_num: 0  fault number: 7
+suite_size: 17  false_num: 1  fault number: 8
+printtokens2_total_coverage_statements
+suite_size: 4  false_num: 2  fault number: 1
+suite_size: 4  false_num: 2  fault number: 2
+suite_size: 4  false_num: 1  fault number: 3
+suite_size: 4  false_num: 2  fault number: 4
+suite_size: 4  false_num: 1  fault number: 5
+suite_size: 4  false_num: 2  fault number: 6
+suite_size: 4  false_num: 0  fault number: 6
+suite_size: 4  false_num: 1  fault number: 7
+suite_size: 4  false_num: 0  fault number: 7
+printtokens2_total_coverage_branches
+suite_size: 6  false_num: 4  fault number: 1
+suite_size: 6  false_num: 4  fault number: 2
+suite_size: 6  false_num: 1  fault number: 3
+suite_size: 6  false_num: 4  fault number: 4
+suite_size: 6  false_num: 2  fault number: 5
+suite_size: 6  false_num: 4  fault number: 6
+suite_size: 6  false_num: 0  fault number: 6
+suite_size: 6  false_num: 2  fault number: 7
+suite_size: 6  false_num: 1  fault number: 8
+printtokens2_additional_coverage_statements
+suite_size: 4  false_num: 1  fault number: 1
+suite_size: 4  false_num: 1  fault number: 2
+suite_size: 4  false_num: 1  fault number: 3
+suite_size: 4  false_num: 1  fault number: 4
+suite_size: 4  false_num: 1  fault number: 5
+suite_size: 4  false_num: 1  fault number: 6
+suite_size: 4  false_num: 0  fault number: 6
+suite_size: 4  false_num: 0  fault number: 6
+suite_size: 4  false_num: 0  fault number: 6
+printtokens2_additional_coverage_branches
+suite_size: 4  false_num: 1  fault number: 1
+suite_size: 4  false_num: 1  fault number: 2
+suite_size: 4  false_num: 1  fault number: 3
+suite_size: 4  false_num: 2  fault number: 4
+suite_size: 4  false_num: 1  fault number: 5
+suite_size: 4  false_num: 1  fault number: 6
+suite_size: 4  false_num: 1  fault number: 7
+suite_size: 4  false_num: 0  fault number: 7
+suite_size: 4  false_num: 0  fault number: 7
+printtokens_universe
+suite_size: 4072  false_num: 6  fault number: 1
+suite_size: 4072  false_num: 48  fault number: 2
+suite_size: 4072  false_num: 38  fault number: 3
+suite_size: 4072  false_num: 28  fault number: 4
+suite_size: 4072  false_num: 150  fault number: 5
+suite_size: 4072  false_num: 186  fault number: 6
+suite_size: 4072  false_num: 28  fault number: 7
+printtokens_random_statements
+suite_size: 16  false_num: 0  fault number: 0
+suite_size: 16  false_num: 0  fault number: 0
+suite_size: 16  false_num: 1  fault number: 1
+suite_size: 16  false_num: 1  fault number: 2
+suite_size: 16  false_num: 1  fault number: 3
+suite_size: 16  false_num: 0  fault number: 3
+suite_size: 16  false_num: 0  fault number: 3
+printtokens_random_branches
+suite_size: 18  false_num: 0  fault number: 0
+suite_size: 18  false_num: 1  fault number: 1
+suite_size: 18  false_num: 1  fault number: 2
+suite_size: 18  false_num: 0  fault number: 2
+suite_size: 18  false_num: 1  fault number: 3
+suite_size: 18  false_num: 0  fault number: 3
+suite_size: 18  false_num: 0  fault number: 3
+printtokens_total_coverage_statements
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 2  fault number: 1
+suite_size: 6  false_num: 1  fault number: 2
+suite_size: 6  false_num: 1  fault number: 3
+suite_size: 6  false_num: 4  fault number: 4
+suite_size: 6  false_num: 3  fault number: 5
+suite_size: 6  false_num: 1  fault number: 6
+printtokens_total_coverage_branches
+suite_size: 8  false_num: 0  fault number: 0
+suite_size: 8  false_num: 2  fault number: 1
+suite_size: 8  false_num: 1  fault number: 2
+suite_size: 8  false_num: 1  fault number: 3
+suite_size: 8  false_num: 5  fault number: 4
+suite_size: 8  false_num: 5  fault number: 5
+suite_size: 8  false_num: 1  fault number: 6
+printtokens_additional_coverage_statements
+suite_size: 5  false_num: 0  fault number: 0
+suite_size: 5  false_num: 2  fault number: 1
+suite_size: 5  false_num: 1  fault number: 2
+suite_size: 5  false_num: 0  fault number: 2
+suite_size: 5  false_num: 2  fault number: 3
+suite_size: 5  false_num: 1  fault number: 4
+suite_size: 5  false_num: 0  fault number: 4
+printtokens_additional_coverage_branches
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 2  fault number: 1
+suite_size: 6  false_num: 1  fault number: 2
+suite_size: 6  false_num: 0  fault number: 2
+suite_size: 6  false_num: 2  fault number: 3
+suite_size: 6  false_num: 1  fault number: 4
+suite_size: 6  false_num: 0  fault number: 4
+replace_universe
+suite_size: 5542  false_num: 68  fault number: 1
+suite_size: 5542  false_num: 37  fault number: 2
+suite_size: 5542  false_num: 130  fault number: 3
+suite_size: 5542  false_num: 143  fault number: 4
+suite_size: 5542  false_num: 268  fault number: 5
+suite_size: 5542  false_num: 96  fault number: 6
+suite_size: 5542  false_num: 83  fault number: 7
+suite_size: 5542  false_num: 54  fault number: 8
+suite_size: 5542  false_num: 30  fault number: 9
+suite_size: 5542  false_num: 23  fault number: 10
+suite_size: 5542  false_num: 30  fault number: 11
+suite_size: 5542  false_num: 310  fault number: 12
+suite_size: 5542  false_num: 167  fault number: 13
+suite_size: 5542  false_num: 136  fault number: 14
+suite_size: 5542  false_num: 60  fault number: 15
+suite_size: 5542  false_num: 83  fault number: 16
+suite_size: 5542  false_num: 24  fault number: 17
+suite_size: 5542  false_num: 209  fault number: 18
+suite_size: 5542  false_num: 3  fault number: 19
+suite_size: 5542  false_num: 22  fault number: 20
+suite_size: 5542  false_num: 3  fault number: 21
+suite_size: 5542  false_num: 18  fault number: 22
+suite_size: 5542  false_num: 22  fault number: 23
+suite_size: 5542  false_num: 168  fault number: 24
+suite_size: 5542  false_num: 3  fault number: 25
+suite_size: 5542  false_num: 162  fault number: 26
+suite_size: 5542  false_num: 261  fault number: 27
+suite_size: 5542  false_num: 142  fault number: 28
+suite_size: 5542  false_num: 64  fault number: 29
+suite_size: 5542  false_num: 284  fault number: 30
+suite_size: 5542  false_num: 209  fault number: 31
+replace_random_statements
+suite_size: 20  false_num: 0  fault number: 0
+suite_size: 20  false_num: 0  fault number: 0
+suite_size: 20  false_num: 0  fault number: 0
+suite_size: 20  false_num: 0  fault number: 0
+suite_size: 20  false_num: 1  fault number: 1
+suite_size: 20  false_num: 1  fault number: 2
+suite_size: 20  false_num: 0  fault number: 2
+suite_size: 20  false_num: 1  fault number: 3
+suite_size: 20  false_num: 0  fault number: 3
+suite_size: 20  false_num: 1  fault number: 4
+suite_size: 20  false_num: 0  fault number: 4
+suite_size: 20  false_num: 1  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 0  fault number: 5
+suite_size: 20  false_num: 1  fault number: 6
+suite_size: 20  false_num: 0  fault number: 6
+suite_size: 20  false_num: 0  fault number: 6
+suite_size: 20  false_num: 1  fault number: 7
+suite_size: 20  false_num: 0  fault number: 7
+suite_size: 20  false_num: 0  fault number: 7
+suite_size: 20  false_num: 0  fault number: 7
+suite_size: 20  false_num: 0  fault number: 7
+replace_random_branches
+suite_size: 29  false_num: 1  fault number: 1
+suite_size: 29  false_num: 1  fault number: 2
+suite_size: 29  false_num: 1  fault number: 3
+suite_size: 29  false_num: 1  fault number: 4
+suite_size: 29  false_num: 1  fault number: 5
+suite_size: 29  false_num: 0  fault number: 5
+suite_size: 29  false_num: 0  fault number: 5
+suite_size: 29  false_num: 1  fault number: 6
+suite_size: 29  false_num: 0  fault number: 6
+suite_size: 29  false_num: 1  fault number: 7
+suite_size: 29  false_num: 0  fault number: 7
+suite_size: 29  false_num: 3  fault number: 8
+suite_size: 29  false_num: 1  fault number: 9
+suite_size: 29  false_num: 0  fault number: 9
+suite_size: 29  false_num: 0  fault number: 9
+suite_size: 29  false_num: 0  fault number: 9
+suite_size: 29  false_num: 0  fault number: 9
+suite_size: 29  false_num: 2  fault number: 10
+suite_size: 29  false_num: 0  fault number: 10
+suite_size: 29  false_num: 0  fault number: 10
+suite_size: 29  false_num: 0  fault number: 10
+suite_size: 29  false_num: 0  fault number: 10
+suite_size: 29  false_num: 0  fault number: 10
+suite_size: 29  false_num: 1  fault number: 11
+suite_size: 29  false_num: 0  fault number: 11
+suite_size: 29  false_num: 1  fault number: 12
+suite_size: 29  false_num: 1  fault number: 13
+suite_size: 29  false_num: 2  fault number: 14
+suite_size: 29  false_num: 0  fault number: 14
+suite_size: 29  false_num: 2  fault number: 15
+suite_size: 29  false_num: 2  fault number: 16
+replace_total_coverage_statements
+suite_size: 13  false_num: 2  fault number: 1
+suite_size: 13  false_num: 2  fault number: 2
+suite_size: 13  false_num: 0  fault number: 2
+suite_size: 13  false_num: 0  fault number: 2
+suite_size: 13  false_num: 2  fault number: 3
+suite_size: 13  false_num: 0  fault number: 3
+suite_size: 13  false_num: 0  fault number: 3
+suite_size: 13  false_num: 1  fault number: 4
+suite_size: 13  false_num: 0  fault number: 4
+suite_size: 13  false_num: 0  fault number: 4
+suite_size: 13  false_num: 0  fault number: 4
+suite_size: 13  false_num: 3  fault number: 5
+suite_size: 13  false_num: 0  fault number: 5
+suite_size: 13  false_num: 0  fault number: 5
+suite_size: 13  false_num: 0  fault number: 5
+suite_size: 13  false_num: 0  fault number: 5
+suite_size: 13  false_num: 1  fault number: 6
+suite_size: 13  false_num: 0  fault number: 6
+suite_size: 13  false_num: 0  fault number: 6
+suite_size: 13  false_num: 1  fault number: 7
+suite_size: 13  false_num: 0  fault number: 7
+suite_size: 13  false_num: 0  fault number: 7
+suite_size: 13  false_num: 1  fault number: 8
+suite_size: 13  false_num: 0  fault number: 8
+suite_size: 13  false_num: 0  fault number: 8
+suite_size: 13  false_num: 1  fault number: 9
+suite_size: 13  false_num: 3  fault number: 10
+suite_size: 13  false_num: 0  fault number: 10
+suite_size: 13  false_num: 0  fault number: 10
+suite_size: 13  false_num: 0  fault number: 10
+suite_size: 13  false_num: 0  fault number: 10
+replace_total_coverage_branches
+suite_size: 21  false_num: 2  fault number: 1
+suite_size: 21  false_num: 2  fault number: 2
+suite_size: 21  false_num: 0  fault number: 2
+suite_size: 21  false_num: 2  fault number: 3
+suite_size: 21  false_num: 4  fault number: 4
+suite_size: 21  false_num: 0  fault number: 4
+suite_size: 21  false_num: 3  fault number: 5
+suite_size: 21  false_num: 1  fault number: 6
+suite_size: 21  false_num: 0  fault number: 6
+suite_size: 21  false_num: 0  fault number: 6
+suite_size: 21  false_num: 0  fault number: 6
+suite_size: 21  false_num: 3  fault number: 7
+suite_size: 21  false_num: 2  fault number: 8
+suite_size: 21  false_num: 1  fault number: 9
+suite_size: 21  false_num: 0  fault number: 9
+suite_size: 21  false_num: 3  fault number: 10
+suite_size: 21  false_num: 1  fault number: 11
+suite_size: 21  false_num: 0  fault number: 11
+suite_size: 21  false_num: 0  fault number: 11
+suite_size: 21  false_num: 1  fault number: 12
+suite_size: 21  false_num: 0  fault number: 12
+suite_size: 21  false_num: 0  fault number: 12
+suite_size: 21  false_num: 1  fault number: 13
+suite_size: 21  false_num: 2  fault number: 14
+suite_size: 21  false_num: 0  fault number: 14
+suite_size: 21  false_num: 1  fault number: 15
+suite_size: 21  false_num: 5  fault number: 16
+suite_size: 21  false_num: 3  fault number: 17
+suite_size: 21  false_num: 3  fault number: 18
+suite_size: 21  false_num: 7  fault number: 19
+suite_size: 21  false_num: 0  fault number: 19
+replace_additional_coverage_statements
+suite_size: 9  false_num: 1  fault number: 1
+suite_size: 9  false_num: 1  fault number: 2
+suite_size: 9  false_num: 0  fault number: 2
+suite_size: 9  false_num: 0  fault number: 2
+suite_size: 9  false_num: 1  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 0  fault number: 3
+suite_size: 9  false_num: 1  fault number: 4
+suite_size: 9  false_num: 0  fault number: 4
+suite_size: 9  false_num: 0  fault number: 4
+suite_size: 9  false_num: 0  fault number: 4
+suite_size: 9  false_num: 0  fault number: 4
+replace_additional_coverage_branches
+suite_size: 11  false_num: 2  fault number: 1
+suite_size: 11  false_num: 1  fault number: 2
+suite_size: 11  false_num: 1  fault number: 3
+suite_size: 11  false_num: 1  fault number: 4
+suite_size: 11  false_num: 2  fault number: 5
+suite_size: 11  false_num: 0  fault number: 5
+suite_size: 11  false_num: 0  fault number: 5
+suite_size: 11  false_num: 1  fault number: 6
+suite_size: 11  false_num: 0  fault number: 6
+suite_size: 11  false_num: 0  fault number: 6
+suite_size: 11  false_num: 0  fault number: 6
+suite_size: 11  false_num: 0  fault number: 6
+suite_size: 11  false_num: 1  fault number: 7
+suite_size: 11  false_num: 1  fault number: 8
+suite_size: 11  false_num: 0  fault number: 8
+suite_size: 11  false_num: 0  fault number: 8
+suite_size: 11  false_num: 0  fault number: 8
+suite_size: 11  false_num: 0  fault number: 8
+suite_size: 11  false_num: 0  fault number: 8
+suite_size: 11  false_num: 0  fault number: 8
+suite_size: 11  false_num: 0  fault number: 8
+suite_size: 11  false_num: 0  fault number: 8
+suite_size: 11  false_num: 0  fault number: 8
+suite_size: 11  false_num: 1  fault number: 9
+suite_size: 11  false_num: 0  fault number: 9
+suite_size: 11  false_num: 0  fault number: 9
+suite_size: 11  false_num: 2  fault number: 10
+suite_size: 11  false_num: 1  fault number: 11
+suite_size: 11  false_num: 1  fault number: 12
+suite_size: 11  false_num: 2  fault number: 13
+suite_size: 11  false_num: 0  fault number: 13
+schedule_universe
+suite_size: 2634  false_num: 7  fault number: 1
+suite_size: 2634  false_num: 210  fault number: 2
+suite_size: 2634  false_num: 158  fault number: 3
+suite_size: 2634  false_num: 290  fault number: 4
+suite_size: 2634  false_num: 41  fault number: 5
+suite_size: 2634  false_num: 7  fault number: 6
+suite_size: 2634  false_num: 27  fault number: 7
+suite_size: 2634  false_num: 31  fault number: 8
+suite_size: 2634  false_num: 15  fault number: 9
+schedule_random_statements
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 1  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 1  fault number: 2
+schedule_random_branches
+suite_size: 11  false_num: 1  fault number: 1
+suite_size: 11  false_num: 0  fault number: 1
+suite_size: 11  false_num: 1  fault number: 2
+suite_size: 11  false_num: 1  fault number: 3
+suite_size: 11  false_num: 2  fault number: 4
+suite_size: 11  false_num: 1  fault number: 5
+suite_size: 11  false_num: 0  fault number: 5
+suite_size: 11  false_num: 0  fault number: 5
+suite_size: 11  false_num: 1  fault number: 6
+schedule_total_coverage_statements
+suite_size: 3  false_num: 0  fault number: 0
+suite_size: 3  false_num: 1  fault number: 1
+suite_size: 3  false_num: 0  fault number: 1
+suite_size: 3  false_num: 0  fault number: 1
+suite_size: 3  false_num: 0  fault number: 1
+suite_size: 3  false_num: 0  fault number: 1
+suite_size: 3  false_num: 0  fault number: 1
+suite_size: 3  false_num: 0  fault number: 1
+suite_size: 3  false_num: 1  fault number: 2
+schedule_total_coverage_branches
+suite_size: 8  false_num: 1  fault number: 1
+suite_size: 8  false_num: 4  fault number: 2
+suite_size: 8  false_num: 0  fault number: 2
+suite_size: 8  false_num: 0  fault number: 2
+suite_size: 8  false_num: 3  fault number: 3
+suite_size: 8  false_num: 1  fault number: 4
+suite_size: 8  false_num: 0  fault number: 4
+suite_size: 8  false_num: 0  fault number: 4
+suite_size: 8  false_num: 1  fault number: 5
+schedule_additional_coverage_statements
+suite_size: 3  false_num: 1  fault number: 1
+suite_size: 3  false_num: 1  fault number: 2
+suite_size: 3  false_num: 0  fault number: 2
+suite_size: 3  false_num: 0  fault number: 2
+suite_size: 3  false_num: 1  fault number: 3
+suite_size: 3  false_num: 1  fault number: 4
+suite_size: 3  false_num: 0  fault number: 4
+suite_size: 3  false_num: 0  fault number: 4
+suite_size: 3  false_num: 1  fault number: 5
+schedule_additional_coverage_branches
+suite_size: 7  false_num: 1  fault number: 1
+suite_size: 7  false_num: 1  fault number: 2
+suite_size: 7  false_num: 0  fault number: 2
+suite_size: 7  false_num: 0  fault number: 2
+suite_size: 7  false_num: 2  fault number: 3
+suite_size: 7  false_num: 1  fault number: 4
+suite_size: 7  false_num: 0  fault number: 4
+suite_size: 7  false_num: 0  fault number: 4
+suite_size: 7  false_num: 1  fault number: 5
+schedule2_universe
+suite_size: 2679  false_num: 65  fault number: 1
+suite_size: 2679  false_num: 31  fault number: 2
+suite_size: 2679  false_num: 34  fault number: 3
+suite_size: 2679  false_num: 2  fault number: 4
+suite_size: 2679  false_num: 32  fault number: 5
+suite_size: 2679  false_num: 7  fault number: 6
+suite_size: 2679  false_num: 31  fault number: 7
+suite_size: 2679  false_num: 48  fault number: 8
+suite_size: 2679  false_num: 46  fault number: 9
+schedule2_random_statements
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 0  fault number: 0
+suite_size: 6  false_num: 0  fault number: 0
+schedule2_random_branches
+suite_size: 11  false_num: 1  fault number: 1
+suite_size: 11  false_num: 0  fault number: 1
+suite_size: 11  false_num: 1  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 2  fault number: 3
+suite_size: 11  false_num: 2  fault number: 4
+schedule2_total_coverage_statements
+suite_size: 1  false_num: 1  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 1  fault number: 2
+suite_size: 1  false_num: 1  fault number: 3
+schedule2_total_coverage_branches
+suite_size: 7  false_num: 0  fault number: 0
+suite_size: 7  false_num: 1  fault number: 1
+suite_size: 7  false_num: 1  fault number: 2
+suite_size: 7  false_num: 0  fault number: 2
+suite_size: 7  false_num: 0  fault number: 2
+suite_size: 7  false_num: 0  fault number: 2
+suite_size: 7  false_num: 1  fault number: 3
+suite_size: 7  false_num: 2  fault number: 4
+suite_size: 7  false_num: 2  fault number: 5
+schedule2_additional_coverage_statements
+suite_size: 1  false_num: 1  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 0  fault number: 1
+suite_size: 1  false_num: 1  fault number: 2
+suite_size: 1  false_num: 1  fault number: 3
+schedule2_additional_coverage_branches
+suite_size: 5  false_num: 0  fault number: 0
+suite_size: 5  false_num: 0  fault number: 0
+suite_size: 5  false_num: 0  fault number: 0
+suite_size: 5  false_num: 0  fault number: 0
+suite_size: 5  false_num: 0  fault number: 0
+suite_size: 5  false_num: 0  fault number: 0
+suite_size: 5  false_num: 0  fault number: 0
+suite_size: 5  false_num: 1  fault number: 1
+suite_size: 5  false_num: 1  fault number: 2
+tcas_universe
+suite_size: 1590  false_num: 129  fault number: 1
+suite_size: 1590  false_num: 61  fault number: 2
+suite_size: 1590  false_num: 24  fault number: 3
+suite_size: 1590  false_num: 26  fault number: 4
+suite_size: 1590  false_num: 10  fault number: 5
+suite_size: 1590  false_num: 12  fault number: 6
+suite_size: 1590  false_num: 36  fault number: 7
+suite_size: 1590  false_num: 1  fault number: 8
+suite_size: 1590  false_num: 9  fault number: 9
+suite_size: 1590  false_num: 14  fault number: 10
+suite_size: 1590  false_num: 14  fault number: 11
+suite_size: 1590  false_num: 70  fault number: 12
+suite_size: 1590  false_num: 4  fault number: 13
+suite_size: 1590  false_num: 50  fault number: 14
+suite_size: 1590  false_num: 10  fault number: 15
+suite_size: 1590  false_num: 69  fault number: 16
+suite_size: 1590  false_num: 35  fault number: 17
+suite_size: 1590  false_num: 29  fault number: 18
+suite_size: 1590  false_num: 18  fault number: 19
+suite_size: 1590  false_num: 15  fault number: 20
+suite_size: 1590  false_num: 16  fault number: 21
+suite_size: 1590  false_num: 11  fault number: 22
+suite_size: 1590  false_num: 42  fault number: 23
+suite_size: 1590  false_num: 7  fault number: 24
+suite_size: 1590  false_num: 6  fault number: 25
+suite_size: 1590  false_num: 11  fault number: 26
+suite_size: 1590  false_num: 10  fault number: 27
+suite_size: 1590  false_num: 76  fault number: 28
+suite_size: 1590  false_num: 18  fault number: 29
+suite_size: 1590  false_num: 58  fault number: 30
+suite_size: 1590  false_num: 14  fault number: 31
+suite_size: 1590  false_num: 2  fault number: 32
+suite_size: 1590  false_num: 89  fault number: 33
+suite_size: 1590  false_num: 79  fault number: 34
+suite_size: 1590  false_num: 76  fault number: 35
+suite_size: 1590  false_num: 126  fault number: 36
+suite_size: 1590  false_num: 92  fault number: 37
+suite_size: 1590  false_num: 87  fault number: 38
+suite_size: 1590  false_num: 6  fault number: 39
+suite_size: 1590  false_num: 126  fault number: 40
+suite_size: 1590  false_num: 26  fault number: 41
+tcas_random_statements
+suite_size: 4  false_num: 0  fault number: 0
+suite_size: 4  false_num: 1  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 1  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 1  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 1  fault number: 4
+suite_size: 4  false_num: 0  fault number: 4
+suite_size: 4  false_num: 1  fault number: 5
+suite_size: 4  false_num: 0  fault number: 5
+tcas_random_branches
+suite_size: 14  false_num: 1  fault number: 1
+suite_size: 14  false_num: 1  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 0  fault number: 2
+suite_size: 14  false_num: 1  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 0  fault number: 3
+suite_size: 14  false_num: 1  fault number: 4
+suite_size: 14  false_num: 0  fault number: 4
+suite_size: 14  false_num: 0  fault number: 4
+suite_size: 14  false_num: 1  fault number: 5
+suite_size: 14  false_num: 0  fault number: 5
+suite_size: 14  false_num: 1  fault number: 6
+suite_size: 14  false_num: 0  fault number: 6
+suite_size: 14  false_num: 1  fault number: 7
+suite_size: 14  false_num: 0  fault number: 7
+tcas_total_coverage_statements
+suite_size: 4  false_num: 1  fault number: 1
+suite_size: 4  false_num: 1  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 1  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 1  fault number: 4
+suite_size: 4  false_num: 0  fault number: 4
+suite_size: 4  false_num: 0  fault number: 4
+suite_size: 4  false_num: 1  fault number: 5
+suite_size: 4  false_num: 0  fault number: 5
+suite_size: 4  false_num: 0  fault number: 5
+suite_size: 4  false_num: 0  fault number: 5
+suite_size: 4  false_num: 1  fault number: 6
+suite_size: 4  false_num: 0  fault number: 6
+tcas_total_coverage_branches
+suite_size: 15  false_num: 1  fault number: 1
+suite_size: 15  false_num: 2  fault number: 2
+suite_size: 15  false_num: 1  fault number: 3
+suite_size: 15  false_num: 0  fault number: 3
+suite_size: 15  false_num: 0  fault number: 3
+suite_size: 15  false_num: 0  fault number: 3
+suite_size: 15  false_num: 0  fault number: 3
+suite_size: 15  false_num: 0  fault number: 3
+suite_size: 15  false_num: 1  fault number: 4
+suite_size: 15  false_num: 0  fault number: 4
+suite_size: 15  false_num: 0  fault number: 4
+suite_size: 15  false_num: 1  fault number: 5
+suite_size: 15  false_num: 0  fault number: 5
+suite_size: 15  false_num: 1  fault number: 6
+suite_size: 15  false_num: 0  fault number: 6
+suite_size: 15  false_num: 0  fault number: 6
+suite_size: 15  false_num: 0  fault number: 6
+suite_size: 15  false_num: 1  fault number: 7
+suite_size: 15  false_num: 1  fault number: 8
+suite_size: 15  false_num: 0  fault number: 8
+suite_size: 15  false_num: 0  fault number: 8
+suite_size: 15  false_num: 0  fault number: 8
+suite_size: 15  false_num: 1  fault number: 9
+suite_size: 15  false_num: 0  fault number: 9
+suite_size: 15  false_num: 0  fault number: 9
+suite_size: 15  false_num: 1  fault number: 10
+suite_size: 15  false_num: 0  fault number: 10
+suite_size: 15  false_num: 1  fault number: 11
+suite_size: 15  false_num: 0  fault number: 11
+suite_size: 15  false_num: 1  fault number: 12
+suite_size: 15  false_num: 0  fault number: 12
+suite_size: 15  false_num: 0  fault number: 12
+suite_size: 15  false_num: 1  fault number: 13
+suite_size: 15  false_num: 1  fault number: 14
+suite_size: 15  false_num: 1  fault number: 15
+suite_size: 15  false_num: 5  fault number: 16
+suite_size: 15  false_num: 1  fault number: 17
+suite_size: 15  false_num: 0  fault number: 17
+suite_size: 15  false_num: 0  fault number: 17
+suite_size: 15  false_num: 5  fault number: 18
+suite_size: 15  false_num: 0  fault number: 18
+tcas_additional_coverage_statements
+suite_size: 4  false_num: 0  fault number: 0
+suite_size: 4  false_num: 1  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 0  fault number: 1
+suite_size: 4  false_num: 1  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 0  fault number: 2
+suite_size: 4  false_num: 1  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 0  fault number: 3
+suite_size: 4  false_num: 1  fault number: 4
+suite_size: 4  false_num: 0  fault number: 4
+tcas_additional_coverage_branches
+suite_size: 11  false_num: 1  fault number: 1
+suite_size: 11  false_num: 0  fault number: 1
+suite_size: 11  false_num: 0  fault number: 1
+suite_size: 11  false_num: 0  fault number: 1
+suite_size: 11  false_num: 0  fault number: 1
+suite_size: 11  false_num: 0  fault number: 1
+suite_size: 11  false_num: 0  fault number: 1
+suite_size: 11  false_num: 0  fault number: 1
+suite_size: 11  false_num: 1  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 0  fault number: 2
+suite_size: 11  false_num: 1  fault number: 3
+suite_size: 11  false_num: 0  fault number: 3
+suite_size: 11  false_num: 0  fault number: 3
+suite_size: 11  false_num: 0  fault number: 3
+suite_size: 11  false_num: 0  fault number: 3
+suite_size: 11  false_num: 0  fault number: 3
+suite_size: 11  false_num: 0  fault number: 3
+suite_size: 11  false_num: 1  fault number: 4
+suite_size: 11  false_num: 0  fault number: 4
+suite_size: 11  false_num: 0  fault number: 4
+suite_size: 11  false_num: 0  fault number: 4
+suite_size: 11  false_num: 0  fault number: 4
+suite_size: 11  false_num: 1  fault number: 5
+suite_size: 11  false_num: 0  fault number: 5
+suite_size: 11  false_num: 1  fault number: 6
+suite_size: 11  false_num: 0  fault number: 6
+suite_size: 11  false_num: 0  fault number: 6
+suite_size: 11  false_num: 1  fault number: 7
+suite_size: 11  false_num: 0  fault number: 7
+suite_size: 11  false_num: 1  fault number: 8
+suite_size: 11  false_num: 1  fault number: 9
+suite_size: 11  false_num: 1  fault number: 10
+suite_size: 11  false_num: 1  fault number: 11
+suite_size: 11  false_num: 0  fault number: 11
+suite_size: 11  false_num: 1  fault number: 12
+suite_size: 11  false_num: 0  fault number: 12
+totinfo_universe
+suite_size: 1026  false_num: 153  fault number: 1
+suite_size: 1026  false_num: 9  fault number: 2
+suite_size: 1026  false_num: 0  fault number: 2
+suite_size: 1026  false_num: 33  fault number: 3
+suite_size: 1026  false_num: 28  fault number: 4
+suite_size: 1026  false_num: 47  fault number: 5
+suite_size: 1026  false_num: 123  fault number: 6
+suite_size: 1026  false_num: 197  fault number: 7
+suite_size: 1026  false_num: 36  fault number: 8
+suite_size: 1026  false_num: 8  fault number: 9
+suite_size: 1026  false_num: 197  fault number: 10
+suite_size: 1026  false_num: 33  fault number: 11
+suite_size: 1026  false_num: 128  fault number: 12
+suite_size: 1026  false_num: 0  fault number: 12
+suite_size: 1026  false_num: 197  fault number: 13
+suite_size: 1026  false_num: 170  fault number: 14
+suite_size: 1026  false_num: 43  fault number: 15
+suite_size: 1026  false_num: 117  fault number: 16
+suite_size: 1026  false_num: 88  fault number: 17
+suite_size: 1026  false_num: 83  fault number: 18
+suite_size: 1026  false_num: 101  fault number: 19
+suite_size: 1026  false_num: 23  fault number: 20
+suite_size: 1026  false_num: 70  fault number: 21
+totinfo_random_statements
+suite_size: 6  false_num: 1  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 0  fault number: 1
+suite_size: 6  false_num: 1  fault number: 2
+suite_size: 6  false_num: 1  fault number: 3
+suite_size: 6  false_num: 0  fault number: 3
+suite_size: 6  false_num: 0  fault number: 3
+suite_size: 6  false_num: 1  fault number: 4
+suite_size: 6  false_num: 0  fault number: 4
+suite_size: 6  false_num: 1  fault number: 5
+suite_size: 6  false_num: 0  fault number: 5
+suite_size: 6  false_num: 1  fault number: 6
+suite_size: 6  false_num: 1  fault number: 7
+suite_size: 6  false_num: 0  fault number: 7
+suite_size: 6  false_num: 1  fault number: 8
+suite_size: 6  false_num: 0  fault number: 8
+suite_size: 6  false_num: 0  fault number: 8
+suite_size: 6  false_num: 0  fault number: 8
+suite_size: 6  false_num: 0  fault number: 8
+suite_size: 6  false_num: 0  fault number: 8
+totinfo_random_branches
+suite_size: 9  false_num: 4  fault number: 1
+suite_size: 9  false_num: 1  fault number: 2
+suite_size: 9  false_num: 0  fault number: 2
+suite_size: 9  false_num: 2  fault number: 3
+suite_size: 9  false_num: 1  fault number: 4
+suite_size: 9  false_num: 0  fault number: 4
+suite_size: 9  false_num: 1  fault number: 5
+suite_size: 9  false_num: 2  fault number: 6
+suite_size: 9  false_num: 1  fault number: 7
+suite_size: 9  false_num: 0  fault number: 7
+suite_size: 9  false_num: 2  fault number: 8
+suite_size: 9  false_num: 1  fault number: 9
+suite_size: 9  false_num: 2  fault number: 10
+suite_size: 9  false_num: 0  fault number: 10
+suite_size: 9  false_num: 2  fault number: 11
+suite_size: 9  false_num: 2  fault number: 12
+suite_size: 9  false_num: 2  fault number: 13
+suite_size: 9  false_num: 1  fault number: 14
+suite_size: 9  false_num: 0  fault number: 14
+suite_size: 9  false_num: 1  fault number: 15
+suite_size: 9  false_num: 0  fault number: 15
+suite_size: 9  false_num: 0  fault number: 15
+suite_size: 9  false_num: 2  fault number: 16
+totinfo_total_coverage_statements
+suite_size: 5  false_num: 5  fault number: 1
+suite_size: 5  false_num: 0  fault number: 1
+suite_size: 5  false_num: 0  fault number: 1
+suite_size: 5  false_num: 0  fault number: 1
+suite_size: 5  false_num: 1  fault number: 2
+suite_size: 5  false_num: 0  fault number: 2
+suite_size: 5  false_num: 1  fault number: 3
+suite_size: 5  false_num: 3  fault number: 4
+suite_size: 5  false_num: 1  fault number: 5
+suite_size: 5  false_num: 1  fault number: 6
+suite_size: 5  false_num: 3  fault number: 7
+suite_size: 5  false_num: 1  fault number: 8
+suite_size: 5  false_num: 1  fault number: 9
+suite_size: 5  false_num: 0  fault number: 9
+suite_size: 5  false_num: 3  fault number: 10
+suite_size: 5  false_num: 2  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 2  fault number: 12
+suite_size: 5  false_num: 0  fault number: 12
+suite_size: 5  false_num: 2  fault number: 13
+suite_size: 5  false_num: 0  fault number: 13
+suite_size: 5  false_num: 0  fault number: 13
+suite_size: 5  false_num: 0  fault number: 13
+totinfo_total_coverage_branches
+suite_size: 5  false_num: 4  fault number: 1
+suite_size: 5  false_num: 0  fault number: 1
+suite_size: 5  false_num: 0  fault number: 1
+suite_size: 5  false_num: 0  fault number: 1
+suite_size: 5  false_num: 1  fault number: 2
+suite_size: 5  false_num: 0  fault number: 2
+suite_size: 5  false_num: 1  fault number: 3
+suite_size: 5  false_num: 4  fault number: 4
+suite_size: 5  false_num: 1  fault number: 5
+suite_size: 5  false_num: 1  fault number: 6
+suite_size: 5  false_num: 4  fault number: 7
+suite_size: 5  false_num: 1  fault number: 8
+suite_size: 5  false_num: 1  fault number: 9
+suite_size: 5  false_num: 0  fault number: 9
+suite_size: 5  false_num: 4  fault number: 10
+suite_size: 5  false_num: 2  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 1  fault number: 12
+suite_size: 5  false_num: 0  fault number: 12
+suite_size: 5  false_num: 0  fault number: 12
+suite_size: 5  false_num: 0  fault number: 12
+totinfo_additional_coverage_statements
+suite_size: 5  false_num: 2  fault number: 1
+suite_size: 5  false_num: 1  fault number: 2
+suite_size: 5  false_num: 0  fault number: 2
+suite_size: 5  false_num: 0  fault number: 2
+suite_size: 5  false_num: 1  fault number: 3
+suite_size: 5  false_num: 0  fault number: 3
+suite_size: 5  false_num: 1  fault number: 4
+suite_size: 5  false_num: 1  fault number: 5
+suite_size: 5  false_num: 1  fault number: 6
+suite_size: 5  false_num: 0  fault number: 6
+suite_size: 5  false_num: 1  fault number: 7
+suite_size: 5  false_num: 1  fault number: 8
+suite_size: 5  false_num: 1  fault number: 9
+suite_size: 5  false_num: 0  fault number: 9
+suite_size: 5  false_num: 1  fault number: 10
+suite_size: 5  false_num: 1  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 1  fault number: 12
+suite_size: 5  false_num: 0  fault number: 12
+suite_size: 5  false_num: 0  fault number: 12
+suite_size: 5  false_num: 0  fault number: 12
+totinfo_additional_coverage_branches
+suite_size: 5  false_num: 2  fault number: 1
+suite_size: 5  false_num: 1  fault number: 2
+suite_size: 5  false_num: 0  fault number: 2
+suite_size: 5  false_num: 0  fault number: 2
+suite_size: 5  false_num: 1  fault number: 3
+suite_size: 5  false_num: 0  fault number: 3
+suite_size: 5  false_num: 2  fault number: 4
+suite_size: 5  false_num: 1  fault number: 5
+suite_size: 5  false_num: 1  fault number: 6
+suite_size: 5  false_num: 1  fault number: 7
+suite_size: 5  false_num: 1  fault number: 8
+suite_size: 5  false_num: 0  fault number: 8
+suite_size: 5  false_num: 2  fault number: 9
+suite_size: 5  false_num: 0  fault number: 9
+suite_size: 5  false_num: 1  fault number: 10
+suite_size: 5  false_num: 2  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 0  fault number: 11
+suite_size: 5  false_num: 1  fault number: 12
+suite_size: 5  false_num: 0  fault number: 12
+suite_size: 5  false_num: 1  fault number: 13
+suite_size: 5  false_num: 0  fault number: 13
+Summary
+printtokens2_universe,   9
+printtokens2_random_statements,   7
+printtokens2_random_branches,   8
+printtokens2_total_coverage_statements,   7
+printtokens2_total_coverage_branches,   8
+printtokens2_additional_coverage_statements,   6
+printtokens2_additional_coverage_branches,   7
+printtokens_universe,   7
+printtokens_random_statements,   3
+printtokens_random_branches,   3
+printtokens_total_coverage_statements,   6
+printtokens_total_coverage_branches,   6
+printtokens_additional_coverage_statements,   4
+printtokens_additional_coverage_branches,   4
+replace_universe,   31
+replace_random_statements,   7
+replace_random_branches,   16
+replace_total_coverage_statements,   10
+replace_total_coverage_branches,   19
+replace_additional_coverage_statements,   4
+replace_additional_coverage_branches,   13
+schedule_universe,   9
+schedule_random_statements,   2
+schedule_random_branches,   6
+schedule_total_coverage_statements,   2
+schedule_total_coverage_branches,   5
+schedule_additional_coverage_statements,   5
+schedule_additional_coverage_branches,   5
+schedule2_universe,   9
+schedule2_random_statements,   0
+schedule2_random_branches,   4
+schedule2_total_coverage_statements,   3
+schedule2_total_coverage_branches,   5
+schedule2_additional_coverage_statements,   3
+schedule2_additional_coverage_branches,   2
+tcas_universe,   41
+tcas_random_statements,   5
+tcas_random_branches,   7
+tcas_total_coverage_statements,   6
+tcas_total_coverage_branches,   18
+tcas_additional_coverage_statements,   4
+tcas_additional_coverage_branches,   12
+totinfo_universe,   21
+totinfo_random_statements,   8
+totinfo_random_branches,   16
+totinfo_total_coverage_statements,   13
+totinfo_total_coverage_branches,   12
+totinfo_additional_coverage_statements,   12
+totinfo_additional_coverage_branches,   13

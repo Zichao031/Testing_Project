@@ -1,0 +1,3 @@
+'D*@@*' '~' < input/ruin.1524
+'[Z-a]^_`a-A-GABCDEFG-c-ac-a]' 'Eu\!' < input/ruin.218
+'[>-Az-}]*' '%}8@>aTrygnRh-u lvO3z#S[' < input/ruin.921

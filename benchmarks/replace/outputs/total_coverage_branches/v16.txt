@@ -1,0 +1,3 @@
+'[^a-c]*?--*?* *[a--b][^a-c]' 'a@nb@tc' < temp-test/8.inp.3.4
+'*[A-G]?*[A-G]?' '(:,w5(X6)W%qon=YYaq]Q_&nZ~A' < input/ruin.637
+'?*[9-B]?%[9-B]*?-[9-B]' '&a@%' < temp-test/9.inp.4.1

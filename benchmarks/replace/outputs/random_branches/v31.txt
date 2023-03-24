@@ -1,0 +1,2 @@
+'?[^@t]' 'NEW' < temp-test/1484.inp.637.1
+'[^c-a]' ']dcgBzE@$fo\!1~q~Mu' < input/ruin.79
