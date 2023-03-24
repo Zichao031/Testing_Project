@@ -1,5 +1,11 @@
-# class-project-noteamname
-class-project-noteamname created by GitHub Classroom
+# Project description
+In this project, we will compare the effectiveness of different kinds of test case prioritization methods in exposing faults via multiple coverage criteria. 
+
+For each benchmark program, we will use test case prioritization methods to create test
+suites according to the different coverage criteria.
+
+
+For each created test suite, we will evaluate its fault-exposing potential by identifying the set of available faults that are exposed by the test suite.
 
 ## Generating test suites
 To generate test suite, run
