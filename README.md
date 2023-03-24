@@ -1,4 +1,4 @@
-# Project description
+# Effectiveness of Different Test Case Prioritization Methods Based on Coverage Criteria
 In this project, we will compare the effectiveness of different kinds of test case prioritization methods in exposing faults via multiple coverage criteria. 
 
 For each benchmark program, we will use test case prioritization methods to create test
